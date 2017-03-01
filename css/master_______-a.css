@@ -1,0 +1,55 @@
+#u1570
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u72,#u73
+{
+	position: relative;
+}
+
+#u75
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#U89_animation
+{
+	border: none;
+}
+
+#u71-14
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0, 0, 0, 0.27)),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,rgba(0, 0, 0, 0.27) ,#000000 100%);
+	background: -moz-linear-gradient(top,rgba(0, 0, 0, 0.27) ,#000000 100%);
+	background: -ms-linear-gradient(top,rgba(0, 0, 0, 0.27) ,#000000 100%);
+	background: -o-linear-gradient(top,rgba(0, 0, 0, 0.27) ,#000000 100%);
+	background: linear-gradient(to bottom,rgba(0, 0, 0, 0.27) ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#44000000, endColorstr=#FF000000, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#44000000', endColorstr='#FF000000', GradientType=0)";
+	position: relative;
+}
+
+.gs
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: #BABABA;
+	background-color: rgba(0, 0, 0, 0.27);
+}
+
+#u71-2
+{
+	line-height: 22px;
+}
+
+#u71-4,#u71-6,#u71-8,#u71-10,#u71-12
+{
+	line-height: 19px;
+}
+

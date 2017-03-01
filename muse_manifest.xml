@@ -1,0 +1,448 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="262244828"/>
+    <file name="master_______-a.css" crc="506038914" ref="index"/>
+    <file name="index.css" crc="3996220911" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="bookshelf3">
+      <folder name="media">
+        <file name="Bookshelf1.mp4" crc="127153710" mt="1477580947000"/>
+        <file name="Bookshelf2.mp4" crc="3759682795" mt="1477580947000"/>
+        <file name="Ogon1.mp4" crc="460997411" mt="1477580947000"/>
+        <file name="Кнопка1.mp3" crc="4020668285" mt="1477580947000"/>
+        <file name="Мышь.mp3" crc="273961513" mt="1477580947000"/>
+      </folder>
+      <folder name="images">
+        <file name="1-2.png" crc="4159542320" mt="1477580947000"/>
+        <file name="1-3.png" crc="3855904607" mt="1477580947000"/>
+        <file name="1-4.png" crc="76960588" mt="1477580947000"/>
+        <file name="1.png" crc="4108104971" mt="1477580947000"/>
+        <file name="2-2.png" crc="3767878747" mt="1477580947000"/>
+        <file name="2-3.png" crc="4183504609" mt="1477580947000"/>
+        <file name="2-4.png" crc="4123600103" mt="1477580947000"/>
+        <file name="2.png" crc="105216060" mt="1477580947000"/>
+        <file name="3-2.png" crc="485716486" mt="1477580947000"/>
+        <file name="3-3.png" crc="4150199124" mt="1477580947000"/>
+        <file name="3-4.png" crc="4113033107" mt="1477580947000"/>
+        <file name="3.png" crc="3982288873" mt="1477580947000"/>
+        <file name="4-2.png" crc="4096122280" mt="1477580947000"/>
+        <file name="4-3.png" crc="507391983" mt="1477580947000"/>
+        <file name="4-4.png" crc="3816759094" mt="1477580947000"/>
+        <file name="4.png" crc="4087770694" mt="1477580947000"/>
+        <file name="5-2.png" crc="4068296770" mt="1477580947000"/>
+        <file name="5-3.png" crc="12387963" mt="1477580947000"/>
+        <file name="5-4.png" crc="4063206538" mt="1477580947000"/>
+        <file name="5.png" crc="26235045" mt="1477580947000"/>
+        <file name="6-2.png" crc="3851559108" mt="1477580947000"/>
+        <file name="6-3.png" crc="433750792" mt="1477580947000"/>
+        <file name="6-4.png" crc="453988796" mt="1477580947000"/>
+        <file name="6.png" crc="3863780053" mt="1477580947000"/>
+        <file name="7-2.png" crc="203506250" mt="1477580947000"/>
+        <file name="7-3.png" crc="184142695" mt="1477580947000"/>
+        <file name="7-4.png" crc="4090851986" mt="1477580947000"/>
+        <file name="7.png" crc="3831389629" mt="1477580947000"/>
+        <file name="8-2.png" crc="4120899660" mt="1477580947000"/>
+        <file name="8-3.png" crc="334090158" mt="1477580947000"/>
+        <file name="8-4.png" crc="4033795316" mt="1477580947000"/>
+        <file name="8.png" crc="4285621839" mt="1477580947000"/>
+        <file name="icon.png" crc="4100833709" mt="1477580947000"/>
+        <file name="Poster.png" crc="4100833709" mt="1477580947000"/>
+        <file name="Бетон.jpg" crc="3938671780" mt="1477580947000"/>
+      </folder>
+      <file name="Bookshelf_edge.js" crc="3960900084" mt="1477580947000"/>
+      <file name="Bookshelf.html" crc="432696126" mt="1477580947000"/>
+    </folder>
+    <folder name="bookshelf2">
+      <folder name="media">
+        <file name="Bookshelf1.mp4" crc="521414720" mt="1477840574000"/>
+        <file name="Bookshelf2.mp4" crc="487414904" mt="1477840574000"/>
+        <file name="Ogon1.mp4" crc="4235856700" mt="1477840574000"/>
+        <file name="Кнопка1.mp3" crc="4020668285" mt="1477840574000"/>
+        <file name="Мышь.mp3" crc="273961513" mt="1477840574000"/>
+      </folder>
+      <folder name="images">
+        <file name="1-2.png" crc="434092447" mt="1477840574000"/>
+        <file name="1-3.png" crc="3806625195" mt="1477840574000"/>
+        <file name="1-4.png" crc="4120131515" mt="1477840574000"/>
+        <file name="1.png" crc="4276168308" mt="1477840574000"/>
+        <file name="2-2.png" crc="4250919864" mt="1477840574000"/>
+        <file name="2-3.png" crc="3853893862" mt="1477840574000"/>
+        <file name="2-4.png" crc="102428302" mt="1477840574000"/>
+        <file name="2.png" crc="398436193" mt="1477840574000"/>
+        <file name="3-2.png" crc="4133767453" mt="1477840574000"/>
+        <file name="3-3.png" crc="384107292" mt="1477840574000"/>
+        <file name="3-4.png" crc="3922931112" mt="1477840574000"/>
+        <file name="3.png" crc="340467361" mt="1477840574000"/>
+        <file name="4-2.png" crc="473805416" mt="1477840574000"/>
+        <file name="4-3.png" crc="125715964" mt="1477840574000"/>
+        <file name="4-4.png" crc="4250246169" mt="1477840574000"/>
+        <file name="4.png" crc="280945386" mt="1477840574000"/>
+        <file name="5-2.png" crc="4186543585" mt="1477840574000"/>
+        <file name="5-3.png" crc="103074573" mt="1477840574000"/>
+        <file name="5-4.png" crc="4015193095" mt="1477840574000"/>
+        <file name="5.png" crc="3811607155" mt="1477840574000"/>
+        <file name="6-2.png" crc="4285436709" mt="1477840574000"/>
+        <file name="6-3.png" crc="389609749" mt="1477840574000"/>
+        <file name="6-4.png" crc="3921877974" mt="1477840574000"/>
+        <file name="6.png" crc="525604642" mt="1477840574000"/>
+        <file name="7-2.png" crc="494597917" mt="1477840574000"/>
+        <file name="7-3.png" crc="96741303" mt="1477840574000"/>
+        <file name="7-4.png" crc="3989066106" mt="1477840574000"/>
+        <file name="7.png" crc="4011985814" mt="1477840574000"/>
+        <file name="8-2.png" crc="4179237339" mt="1477840574000"/>
+        <file name="8-3.png" crc="3885253989" mt="1477840574000"/>
+        <file name="8-4.png" crc="4226403982" mt="1477840574000"/>
+        <file name="8.png" crc="3939267504" mt="1477840574000"/>
+        <file name="icon.png" crc="256577271" mt="1477840574000"/>
+        <file name="Poster.png" crc="256577271" mt="1477840574000"/>
+        <file name="Бетон.jpg" crc="4265161715" mt="1477840574000"/>
+      </folder>
+      <file name="Bookshelf_edge.js" crc="4127958219" mt="1477840574000"/>
+      <file name="Bookshelf.html" crc="87055613" mt="1477840574000"/>
+    </folder>
+    <folder name="bookshelf">
+      <folder name="media">
+        <file name="Bookshelf1.mp4" crc="3996857030" mt="1483476285000"/>
+        <file name="Bookshelf2.mp4" crc="3792370499" mt="1483476285000"/>
+        <file name="Ogon1.mp4" crc="4235856700" mt="1483476285000"/>
+        <file name="Ogon12.mp4" crc="4235856700" mt="1483476285000"/>
+        <file name="shelf3.mp4" crc="334727495" mt="1483476285000"/>
+        <file name="Кнопка1.mp3" crc="4020668285" mt="1483476285000"/>
+        <file name="Мышь.mp3" crc="273961513" mt="1483476285000"/>
+      </folder>
+      <folder name="images">
+        <file name="1-2.png" crc="434092447" mt="1483476285000"/>
+        <file name="1-22.png" crc="434092447" mt="1483476285000"/>
+        <file name="1-3.png" crc="3806625195" mt="1483476285000"/>
+        <file name="1-32.png" crc="3806625195" mt="1483476285000"/>
+        <file name="1-4.png" crc="4120131515" mt="1483476285000"/>
+        <file name="1-42.png" crc="4120131515" mt="1483476285000"/>
+        <file name="1.png" crc="4276168308" mt="1483476285000"/>
+        <file name="12.png" crc="4276168308" mt="1483476285000"/>
+        <file name="2-2.png" crc="4250919864" mt="1483476285000"/>
+        <file name="2-22.png" crc="4250919864" mt="1483476285000"/>
+        <file name="2-3.png" crc="3853893862" mt="1483476285000"/>
+        <file name="2-32.png" crc="3853893862" mt="1483476285000"/>
+        <file name="2-4.png" crc="102428302" mt="1483476285000"/>
+        <file name="2-42.png" crc="102428302" mt="1483476285000"/>
+        <file name="2.png" crc="398436193" mt="1483476285000"/>
+        <file name="22.png" crc="398436193" mt="1483476285000"/>
+        <file name="3-2.png" crc="4133767453" mt="1483476285000"/>
+        <file name="3-22.png" crc="4133767453" mt="1483476285000"/>
+        <file name="3-3.png" crc="384107292" mt="1483476285000"/>
+        <file name="3-32.png" crc="384107292" mt="1483476285000"/>
+        <file name="3-4.png" crc="3922931112" mt="1483476285000"/>
+        <file name="3-42.png" crc="3922931112" mt="1483476285000"/>
+        <file name="3.png" crc="340467361" mt="1483476285000"/>
+        <file name="32.png" crc="340467361" mt="1483476285000"/>
+        <file name="4-2.png" crc="473805416" mt="1483476285000"/>
+        <file name="4-22.png" crc="473805416" mt="1483476285000"/>
+        <file name="4-3.png" crc="125715964" mt="1483476285000"/>
+        <file name="4-32.png" crc="125715964" mt="1483476285000"/>
+        <file name="4-4.png" crc="4250246169" mt="1483476285000"/>
+        <file name="4-42.png" crc="4250246169" mt="1483476285000"/>
+        <file name="4.png" crc="280945386" mt="1483476285000"/>
+        <file name="42.png" crc="280945386" mt="1483476285000"/>
+        <file name="5-2.png" crc="4186543585" mt="1483476285000"/>
+        <file name="5-22.png" crc="4186543585" mt="1483476285000"/>
+        <file name="5-3.png" crc="103074573" mt="1483476285000"/>
+        <file name="5-32.png" crc="103074573" mt="1483476285000"/>
+        <file name="5-4.png" crc="4015193095" mt="1483476285000"/>
+        <file name="5-42.png" crc="4015193095" mt="1483476285000"/>
+        <file name="5.png" crc="3811607155" mt="1483476285000"/>
+        <file name="52.png" crc="3811607155" mt="1483476285000"/>
+        <file name="6-2.png" crc="4285436709" mt="1483476285000"/>
+        <file name="6-22.png" crc="4285436709" mt="1483476285000"/>
+        <file name="6-3.png" crc="389609749" mt="1483476285000"/>
+        <file name="6-32.png" crc="389609749" mt="1483476285000"/>
+        <file name="6-4.png" crc="3921877974" mt="1483476285000"/>
+        <file name="6-42.png" crc="3921877974" mt="1483476285000"/>
+        <file name="6.png" crc="525604642" mt="1483476285000"/>
+        <file name="62.png" crc="525604642" mt="1483476285000"/>
+        <file name="7-2.png" crc="494597917" mt="1483476285000"/>
+        <file name="7-22.png" crc="494597917" mt="1483476285000"/>
+        <file name="7-3.png" crc="96741303" mt="1483476285000"/>
+        <file name="7-32.png" crc="96741303" mt="1483476285000"/>
+        <file name="7-4.png" crc="3989066106" mt="1483476285000"/>
+        <file name="7-42.png" crc="3989066106" mt="1483476285000"/>
+        <file name="7.png" crc="4011985814" mt="1483476285000"/>
+        <file name="72.png" crc="4011985814" mt="1483476285000"/>
+        <file name="8-2.png" crc="4179237339" mt="1483476285000"/>
+        <file name="8-22.png" crc="4179237339" mt="1483476285000"/>
+        <file name="8-3.png" crc="3885253989" mt="1483476285000"/>
+        <file name="8-32.png" crc="3885253989" mt="1483476285000"/>
+        <file name="8-4.png" crc="4226403982" mt="1483476285000"/>
+        <file name="8-42.png" crc="4226403982" mt="1483476285000"/>
+        <file name="8.png" crc="3939267504" mt="1483476285000"/>
+        <file name="82.png" crc="3939267504" mt="1483476285000"/>
+        <file name="bookish.png" crc="19536321" mt="1483476285000"/>
+        <file name="icon.png" crc="19536321" mt="1483476285000"/>
+        <file name="Poster.png" crc="19536321" mt="1483476285000"/>
+        <file name="Бетон.jpg" crc="3943647118" mt="1483476285000"/>
+        <file name="Бетон2.jpg" crc="3943647118" mt="1483476285000"/>
+      </folder>
+      <file name="Bookshelf_edge.js" crc="4107159372" mt="1483476285000"/>
+      <file name="Bookshelf.html" crc="3970753207" mt="1483476285000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="4291592202" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="4101519497" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="скит-отшельника-favicon.ico" crc="3822174727" ref="phone>index"/>
+    <file name="каменная-кладка-телефон.jpg" crc="3980801648" ref="phone>index"/>
+    <file name="информационный щит ск.jpg" crc="45553145" ref="phone>index"/>
+    <file name="bolt.png" crc="451706407" ref="phone>index"/>
+    <file name="книжная полка сосновая.jpg" crc="4227029720" ref="phone>index"/>
+    <file name="ак-u1183.png" crc="3800635288" ref="phone>index"/>
+    <file name="ак-2-u1183-r.png" crc="518773597" ref="phone>index"/>
+    <file name="ак-3-u1183-m.png" crc="121006845" ref="phone>index"/>
+    <file name="ак-3-u1183-a.png" crc="3770045855" ref="phone>index"/>
+    <file name="карточка каталога.jpg" crc="4100121562" ref="phone>index"/>
+    <file name="ск-u1166.png" crc="3851733213" ref="phone>index"/>
+    <file name="ск-2-u1166-r.png" crc="333443238" ref="phone>index"/>
+    <file name="ск-3-u1166-m.png" crc="227940789" ref="phone>index"/>
+    <file name="ск-3-u1166-a.png" crc="4195240155" ref="phone>index"/>
+    <file name="слово-о-владимира-деяньях-u1278.png" crc="4016813877" ref="phone>index"/>
+    <file name="слово-о-владимира-деяньях-u1278-r.png" crc="80767090" ref="phone>index"/>
+    <file name="слово-о-владимира-деяньях-u1278-m.png" crc="3934259509" ref="phone>index"/>
+    <file name="слово-о-владимира-деяньях-u1278-a.png" crc="360874698" ref="phone>index"/>
+    <file name="холст_компьютер-u1264-fr.jpg" crc="4282149350" ref="phone>index"/>
+    <file name="холст_компьютер.jpg" crc="465134207" ref="phone>index:tablet>index:index"/>
+    <file name="слово-о-владимира-деяньях.jpg" crc="4183492567" ref="phone>index:tablet>index:index"/>
+    <file name="предвоенная_лирика-u1283.png" crc="158956641" ref="phone>index"/>
+    <file name="предвоенная_лирика-u1283-r.png" crc="488753605" ref="phone>index"/>
+    <file name="предвоенная_лирика-u1283-m.png" crc="447585203" ref="phone>index"/>
+    <file name="предвоенная_лирика-u1283-a.png" crc="266298974" ref="phone>index"/>
+    <file name="холст_компьютер-u1296-fr.jpg" crc="8179621" ref="phone>index"/>
+    <file name="предвоенная-лирика.png" crc="4238299503" ref="phone>index:tablet>index:index"/>
+    <file name="откуда-пришли-славяне-u1318.png" crc="3814937163" ref="phone>index"/>
+    <file name="откуда-пришли-славяне-u1318-r.png" crc="91645765" ref="phone>index"/>
+    <file name="откуда-пришли-славяне-u1318-m.png" crc="254095677" ref="phone>index"/>
+    <file name="откуда-пришли-славяне-u1318-a.png" crc="372196380" ref="phone>index"/>
+    <file name="холст_компьютер-u1308-fr.jpg" crc="8179621" ref="phone>index"/>
+    <file name="откуда-пришли_славяне.png" crc="3880787784" ref="phone>index:tablet>index:index"/>
+    <file name="сказка-о-проделках-хана-u1321.png" crc="4200399385" ref="phone>index"/>
+    <file name="сказка-о-проделках-хана-u1321-r.png" crc="203111696" ref="phone>index"/>
+    <file name="сказка-о-проделках-хана-u1321-m.png" crc="3855730993" ref="phone>index"/>
+    <file name="сказка-о-проделках-хана-u1321-a.png" crc="4196592950" ref="phone>index"/>
+    <file name="холст_компьютер-u1328-fr.jpg" crc="8179621" ref="phone>index"/>
+    <file name="сказка-о-проделках_хана.png" crc="4143336944" ref="phone>index:tablet>index:index"/>
+    <file name="клио-u1344.png" crc="27579962" ref="phone>index"/>
+    <file name="клио-u1344-r.png" crc="4152190773" ref="phone>index"/>
+    <file name="клио-u1344-m.png" crc="248515999" ref="phone>index"/>
+    <file name="клио-u1344-a.png" crc="4065734730" ref="phone>index"/>
+    <file name="клио_.png" crc="4073718621" ref="phone>index:tablet>index:index"/>
+    <file name="другая_дорога-u1363.png" crc="52971452" ref="phone>index"/>
+    <file name="другая_дорога-u1363-r.png" crc="421568610" ref="phone>index"/>
+    <file name="другая_дорога-u1363-m.png" crc="431398553" ref="phone>index"/>
+    <file name="другая_дорога-u1363-a.png" crc="4203597404" ref="phone>index"/>
+    <file name="другая-дорога.png" crc="3931706704" ref="phone>index:tablet>index:index"/>
+    <file name="избранное-фрост-u1378.png" crc="4261686616" ref="phone>index"/>
+    <file name="избранное-фрост-u1378-r.png" crc="163547898" ref="phone>index"/>
+    <file name="избранное-фрост-u1378-m.png" crc="3829723388" ref="phone>index"/>
+    <file name="избранное-фрост-u1378-a.png" crc="3777332422" ref="phone>index"/>
+    <file name="избранное-роберт-фрост.jpg" crc="143364434" ref="phone>index:tablet>index:index"/>
+    <file name="анархия_-u1397.png" crc="3759374198" ref="phone>index"/>
+    <file name="анархия_-u1397-r.png" crc="143802805" ref="phone>index"/>
+    <file name="анархия_-u1397-m.png" crc="426700278" ref="phone>index"/>
+    <file name="анархия_-u1397-a.png" crc="303911996" ref="phone>index"/>
+    <file name="анархия.png" crc="471664635" ref="phone>index:tablet>index:index"/>
+    <file name="геродотова-скифия-u1432.png" crc="4098224705" ref="phone>index"/>
+    <file name="геродотова-скифия-u1432-r.png" crc="257346801" ref="phone>index"/>
+    <file name="геродотова-скифия-u1432-m.png" crc="4202206722" ref="phone>index"/>
+    <file name="геродотова-скифия-u1432-a.png" crc="422461417" ref="phone>index"/>
+    <file name="геродотова_скифия.png" crc="257387413" ref="phone>index:tablet>index:index"/>
+    <file name="великий-и-могучий-u1435.png" crc="85141482" ref="phone>index"/>
+    <file name="великий-и-могучий-u1435-r.png" crc="3973317470" ref="phone>index"/>
+    <file name="великий-и-могучий-u1435-m.png" crc="3990958757" ref="phone>index"/>
+    <file name="великий-и-могучий-u1435-a.png" crc="445673462" ref="phone>index"/>
+    <file name="великий-и_могучий.png" crc="3838074047" ref="phone>index:tablet>index:index"/>
+    <file name="слово_о_полку-игореве-u1454.png" crc="257720482" ref="phone>index"/>
+    <file name="слово_о_полку-игореве-u1454-r.png" crc="457550001" ref="phone>index"/>
+    <file name="слово_о_полку-игореве-u1454-m.png" crc="100750414" ref="phone>index"/>
+    <file name="слово_о_полку-игореве-u1454-a.png" crc="3792271182" ref="phone>index"/>
+    <file name="слово_о_полку_игореве.png" crc="384995250" ref="phone>index:tablet>index:index"/>
+    <file name="переводы-u1478.png" crc="191022598" ref="phone>index"/>
+    <file name="переводы-u1478-r.png" crc="278571674" ref="phone>index"/>
+    <file name="переводы-u1478-m.png" crc="4206447990" ref="phone>index"/>
+    <file name="переводы-u1478-a.png" crc="4209295534" ref="phone>index"/>
+    <file name="переводы_.png" crc="51743851" ref="phone>index:tablet>index:index"/>
+    <file name="читая_древние_летописи-u1503.png" crc="4254031956" ref="phone>index"/>
+    <file name="читая_древние_летописи-u1503-r.png" crc="3957807067" ref="phone>index"/>
+    <file name="читая_древние_летописи-u1503-m.png" crc="3901538671" ref="phone>index"/>
+    <file name="читая_древние_летописи-u1503-a.png" crc="15316580" ref="phone>index"/>
+    <file name="читая_древние-летописи.png" crc="4098948344" ref="phone>index:tablet>index:index"/>
+    <file name="анархия_и-порядок-u1559.png" crc="345085874" ref="phone>index"/>
+    <file name="анархия_и-порядок-u1559-r.png" crc="3771765424" ref="phone>index"/>
+    <file name="анархия_и-порядок-u1559-m.png" crc="3375125" ref="phone>index"/>
+    <file name="анархия_и-порядок-u1559-a.png" crc="3967668396" ref="phone>index"/>
+    <file name="анархия_и_порядок.png" crc="429388049" ref="phone>index:tablet>index:index"/>
+    <file name="каменная-кладка-планшет.jpg" crc="423259681" ref="tablet>index"/>
+    <file name="информационный щит ск2.jpg" crc="30561499" ref="tablet>index"/>
+    <file name="bolt2.png" crc="3839303672" ref="tablet>index"/>
+    <file name="книжная_полка_сосновая.jpg" crc="312555647" ref="tablet>index"/>
+    <file name="ак-u1091.png" crc="4141600855" ref="tablet>index"/>
+    <file name="ак-2-u1091-r.png" crc="46816823" ref="tablet>index"/>
+    <file name="ак-3-u1091-m.png" crc="188254869" ref="tablet>index"/>
+    <file name="ак-3-u1091-a.png" crc="4200931899" ref="tablet>index"/>
+    <file name="карточка каталога2.jpg" crc="3827465479" ref="tablet>index:index"/>
+    <file name="ск-u1080.png" crc="308420044" ref="tablet>index"/>
+    <file name="ск-2-u1080-r.png" crc="153329293" ref="tablet>index"/>
+    <file name="ск-3-u1080-m.png" crc="3848359255" ref="tablet>index"/>
+    <file name="ск-3-u1080-a.png" crc="410073756" ref="tablet>index"/>
+    <file name="слово-о-владимира-деяньях-u775.png" crc="3758836783" ref="tablet>index"/>
+    <file name="слово-о-владимира-деяньях-u775-r.png" crc="77724583" ref="tablet>index"/>
+    <file name="слово-о-владимира-деяньях-u775-m.png" crc="3908913315" ref="tablet>index"/>
+    <file name="слово-о-владимира-деяньях-u775-a.png" crc="4273735295" ref="tablet>index"/>
+    <file name="предвоенная_лирика-u805.png" crc="143939197" ref="tablet>index"/>
+    <file name="предвоенная_лирика-u805-r.png" crc="163171155" ref="tablet>index"/>
+    <file name="предвоенная_лирика-u805-m.png" crc="4260298958" ref="tablet>index"/>
+    <file name="предвоенная_лирика-u805-a.png" crc="256692393" ref="tablet>index"/>
+    <file name="откуда-пришли-славяне-u822.png" crc="375731917" ref="tablet>index"/>
+    <file name="откуда-пришли-славяне-u822-r.png" crc="108458103" ref="tablet>index"/>
+    <file name="откуда-пришли-славяне-u822-m.png" crc="3940970413" ref="tablet>index"/>
+    <file name="откуда-пришли-славяне-u822-a.png" crc="3941440654" ref="tablet>index"/>
+    <file name="сказка-о-проделках-хана-u827.png" crc="47300486" ref="tablet>index"/>
+    <file name="сказка-о-проделках-хана-u827-r.png" crc="106812015" ref="tablet>index"/>
+    <file name="сказка-о-проделках-хана-u827-m.png" crc="519838829" ref="tablet>index"/>
+    <file name="сказка-о-проделках-хана-u827-a.png" crc="118046785" ref="tablet>index"/>
+    <file name="клио-u860.png" crc="52799907" ref="tablet>index"/>
+    <file name="клио-u860-r.png" crc="218388397" ref="tablet>index"/>
+    <file name="клио-u860-m.png" crc="9391688" ref="tablet>index"/>
+    <file name="клио-u860-a.png" crc="419370778" ref="tablet>index"/>
+    <file name="другая_дорога-u872.png" crc="424143243" ref="tablet>index"/>
+    <file name="другая_дорога-u872-r.png" crc="4109007997" ref="tablet>index"/>
+    <file name="другая_дорога-u872-m.png" crc="191795424" ref="tablet>index"/>
+    <file name="другая_дорога-u872-a.png" crc="3976221779" ref="tablet>index"/>
+    <file name="избранное-фрост-u884.png" crc="213189571" ref="tablet>index"/>
+    <file name="избранное-фрост-u884-r.png" crc="419815552" ref="tablet>index"/>
+    <file name="избранное-фрост-u884-m.png" crc="459375974" ref="tablet>index"/>
+    <file name="избранное-фрост-u884-a.png" crc="4097404458" ref="tablet>index"/>
+    <file name="анархия_-u910.png" crc="3987961596" ref="tablet>index"/>
+    <file name="анархия_-u910-r.png" crc="3901045428" ref="tablet>index"/>
+    <file name="анархия_-u910-m.png" crc="4194376159" ref="tablet>index"/>
+    <file name="анархия_-u910-a.png" crc="497587776" ref="tablet>index"/>
+    <file name="геродотова-скифия-u924.png" crc="368607446" ref="tablet>index"/>
+    <file name="геродотова-скифия-u924-r.png" crc="4197586519" ref="tablet>index"/>
+    <file name="геродотова-скифия-u924-m.png" crc="4281662338" ref="tablet>index"/>
+    <file name="геродотова-скифия-u924-a.png" crc="4010986153" ref="tablet>index"/>
+    <file name="великий-и-могучий-u950.png" crc="4217351726" ref="tablet>index"/>
+    <file name="великий-и-могучий-u950-r.png" crc="3982101554" ref="tablet>index"/>
+    <file name="великий-и-могучий-u950-m.png" crc="4214051031" ref="tablet>index"/>
+    <file name="великий-и-могучий-u950-a.png" crc="150961571" ref="tablet>index"/>
+    <file name="слово_о_полку-игореве-u974.png" crc="437128775" ref="tablet>index"/>
+    <file name="слово_о_полку-игореве-u974-r.png" crc="80325386" ref="tablet>index"/>
+    <file name="слово_о_полку-игореве-u974-m.png" crc="112878662" ref="tablet>index"/>
+    <file name="слово_о_полку-игореве-u974-a.png" crc="443804932" ref="tablet>index"/>
+    <file name="переводы-u995.png" crc="31717931" ref="tablet>index"/>
+    <file name="переводы-u995-r.png" crc="187156196" ref="tablet>index"/>
+    <file name="переводы-u995-m.png" crc="4168443519" ref="tablet>index"/>
+    <file name="переводы-u995-a.png" crc="4085277976" ref="tablet>index"/>
+    <file name="читая_древние_летописи-u1003.png" crc="314939594" ref="tablet>index"/>
+    <file name="читая_древние_летописи-u1003-r.png" crc="462863666" ref="tablet>index"/>
+    <file name="читая_древние_летописи-u1003-m.png" crc="374276536" ref="tablet>index"/>
+    <file name="читая_древние_летописи-u1003-a.png" crc="4197746091" ref="tablet>index"/>
+    <file name="анархия_и-порядок-u1019.png" crc="4129221528" ref="tablet>index"/>
+    <file name="анархия_и-порядок-u1019-r.png" crc="3931934122" ref="tablet>index"/>
+    <file name="анархия_и-порядок-u1019-m.png" crc="106608452" ref="tablet>index"/>
+    <file name="анархия_и-порядок-u1019-a.png" crc="131326232" ref="tablet>index"/>
+    <file name="каменная кладка.jpg" crc="4267363726" ref="index"/>
+    <file name="bookish.png" crc="19536321" ref="index"/>
+    <file name="информационный щит библиотеки.jpg" crc="299100372" ref="index"/>
+    <file name="bolt3.png" crc="3839303672" ref="index"/>
+    <file name="книжная полка, шпоированная - сосна.jpg" crc="136100612" ref="index"/>
+    <file name="ак-u127.png" crc="4279202407" ref="index"/>
+    <file name="ак-2-u127-r.png" crc="410938803" ref="index"/>
+    <file name="ак-3-u127-m.png" crc="313498257" ref="index"/>
+    <file name="ак-3-u127-a.png" crc="4290536195" ref="index"/>
+    <file name="карточка каталога-u120-fr.jpg" crc="4216129024" ref="index"/>
+    <file name="ск-u144.png" crc="4206654726" ref="index"/>
+    <file name="ск-2-u144-r.png" crc="147934686" ref="index"/>
+    <file name="ск-3-u144-m.png" crc="4260177206" ref="index"/>
+    <file name="ск-3-u144-a.png" crc="289025153" ref="index"/>
+    <file name="карточка каталога-u132-fr.jpg" crc="4216129024" ref="index"/>
+    <file name="слово-о-владимира-деяньях-u149.png" crc="4144774457" ref="index"/>
+    <file name="слово-о-владимира-деяньях-u149-r.png" crc="152191718" ref="index"/>
+    <file name="слово-о-владимира-деяньях-u149-m.png" crc="4010737677" ref="index"/>
+    <file name="слово-о-владимира-деяньях-u149-a.png" crc="258566335" ref="index"/>
+    <file name="предвоенная_лирика-u168.png" crc="378509136" ref="index"/>
+    <file name="предвоенная_лирика-u168-r.png" crc="295351375" ref="index"/>
+    <file name="предвоенная_лирика-u168-m.png" crc="4003754487" ref="index"/>
+    <file name="предвоенная_лирика-u168-a.png" crc="477177880" ref="index"/>
+    <file name="откуда-пришли-славяне-u203.png" crc="120169267" ref="index"/>
+    <file name="откуда-пришли-славяне-u203-r.png" crc="4015468157" ref="index"/>
+    <file name="откуда-пришли-славяне-u203-m.png" crc="3829857978" ref="index"/>
+    <file name="откуда-пришли-славяне-u203-a.png" crc="4016576685" ref="index"/>
+    <file name="сказка-о-проделках-хана-u215.png" crc="56681116" ref="index"/>
+    <file name="сказка-о-проделках-хана-u215-r.png" crc="3845464006" ref="index"/>
+    <file name="сказка-о-проделках-хана-u215-m.png" crc="324479877" ref="index"/>
+    <file name="сказка-о-проделках-хана-u215-a.png" crc="4050041325" ref="index"/>
+    <file name="клио-u225.png" crc="4034833089" ref="index"/>
+    <file name="клио-u225-r.png" crc="4117477927" ref="index"/>
+    <file name="клио-u225-m.png" crc="217869286" ref="index"/>
+    <file name="клио-u225-a.png" crc="477414723" ref="index"/>
+    <file name="другая_дорога-u244.png" crc="3892261060" ref="index"/>
+    <file name="другая_дорога-u244-r.png" crc="367622301" ref="index"/>
+    <file name="другая_дорога-u244-m.png" crc="393500146" ref="index"/>
+    <file name="другая_дорога-u244-a.png" crc="3977423099" ref="index"/>
+    <file name="избранное-фрост-u263.png" crc="3902383768" ref="index"/>
+    <file name="избранное-фрост-u263-r.png" crc="90804751" ref="index"/>
+    <file name="избранное-фрост-u263-m.png" crc="310931089" ref="index"/>
+    <file name="избранное-фрост-u263-a.png" crc="163328667" ref="index"/>
+    <file name="анархия_-u298.png" crc="525691265" ref="index"/>
+    <file name="анархия_-u298-r.png" crc="482261501" ref="index"/>
+    <file name="анархия_-u298-m.png" crc="506022981" ref="index"/>
+    <file name="анархия_-u298-a.png" crc="4102909001" ref="index"/>
+    <file name="геродотова-скифия-u312.png" crc="65216840" ref="index"/>
+    <file name="геродотова-скифия-u312-r.png" crc="3862464696" ref="index"/>
+    <file name="геродотова-скифия-u312-m.png" crc="369937621" ref="index"/>
+    <file name="геродотова-скифия-u312-a.png" crc="485088592" ref="index"/>
+    <file name="великий-и-могучий-u329.png" crc="34930334" ref="index"/>
+    <file name="великий-и-могучий-u329-r.png" crc="3970590364" ref="index"/>
+    <file name="великий-и-могучий-u329-m.png" crc="3798906529" ref="index"/>
+    <file name="великий-и-могучий-u329-a.png" crc="272495105" ref="index"/>
+    <file name="слово_о_полку-игореве-u350.png" crc="3948528599" ref="index"/>
+    <file name="слово_о_полку-игореве-u350-r.png" crc="4261854759" ref="index"/>
+    <file name="слово_о_полку-игореве-u350-m.png" crc="4246558288" ref="index"/>
+    <file name="слово_о_полку-игореве-u350-a.png" crc="3991369547" ref="index"/>
+    <file name="переводы-u364.png" crc="4171559704" ref="index"/>
+    <file name="переводы-u364-r.png" crc="4177362101" ref="index"/>
+    <file name="переводы-u364-m.png" crc="420680642" ref="index"/>
+    <file name="переводы-u364-a.png" crc="149600063" ref="index"/>
+    <file name="читая_древние_летописи-u389.png" crc="4208207488" ref="index"/>
+    <file name="читая_древние_летописи-u389-r.png" crc="3845831156" ref="index"/>
+    <file name="читая_древние_летописи-u389-m.png" crc="3905028548" ref="index"/>
+    <file name="читая_древние_летописи-u389-a.png" crc="490992220" ref="index"/>
+    <file name="анархия_и-порядок-u400.png" crc="3972851166" ref="index"/>
+    <file name="анархия_и-порядок-u400-r.png" crc="306386638" ref="index"/>
+    <file name="анархия_и-порядок-u400-m.png" crc="3791977064" ref="index"/>
+    <file name="анархия_и-порядок-u400-a.png" crc="3809094022" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_______-a.css" crc="152087143" ref="tablet>index"/>
+      <file name="index.css" crc="4201777874" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="11789743" mt="1488366105477" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="408402665" ref="phone>index"/>
+      <file name="index.css" crc="159436081" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4273425148" mt="1488366143885" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="235474892" mt="1488366045732" redirect="true"/>
+</manifest>
