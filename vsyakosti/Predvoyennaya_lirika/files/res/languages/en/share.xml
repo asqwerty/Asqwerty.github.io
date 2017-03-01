@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="ru">
+	<item name="LNG_SHARE_TITLE" label="Title">Общий доступ</item>
+	<item name="LNG_SHARE_FRIEND" label="Send Label">Отправить другу</item>
+	<item name="LNG_SHARE_SUBJECT" label="Subject">Тема</item>
+	<item name="LNG_SHARE_TOEMAIL" label="To">на (e-mail адрес)</item>
+	<item name="LNG_SHARE_NOTE" label="Notes">Ваше примечание</item>
+	<item name="LNG_SHARE_SEND" label="Send Button">Отправить</item>
+	<item name="LNG_SHARE_BOOKMARK" label="Social Label">Социальная закладка</item>
+	<item name="LNG_SHARE_LINK" label="Link Label">Ссылка</item>
+	<item name="LNG_SHARE_COPY" label="Copy Button">Копировать</item>
+</lang>

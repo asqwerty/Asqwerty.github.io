@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1"/>
+      <title value=""/>
+      <children>
+        <tocData>
+          <pageNumber value="1"/>
+          <title value="Русский порядок-организационное оружие!"/>
+          <children>
+            <tocData>
+              <pageNumber value="3"/>
+              <title value="Краткая биография автора"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="5"/>
+              <title value="Страница 4-5"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="7"/>
+              <title value="Страница 6-7"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="9"/>
+              <title value="Страница 8-9"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="11"/>
+              <title value="Страница 10-11"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="13"/>
+              <title value="Страница 12-13"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="15"/>
+              <title value="Страница 14-15"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="17"/>
+              <title value="Обращение к гражданам"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="19"/>
+              <title value="Окончание"/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+      </children>
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="13421772"/>
+        <width value="556"/>
+        <height value="800"/>
+        <slideshowDelay value="3000"/>
+      </defaultValue>
+      <elements>
+        <page>
+          <links>
+            <link>
+              <x value="0"/>
+              <y value="0"/>
+              <width value="433"/>
+              <height value="621"/>
+              <urls>
+                <url src="http://shturmnews.info/"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="1"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="31"/>
+              <y value="76"/>
+              <width value="174"/>
+              <height value="174"/>
+              <urls>
+                <url src="http://shturmnews.info/"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="271"/>
+              <y value="72"/>
+              <width value="127"/>
+              <height value="39"/>
+              <urls>
+                <url src="http://ekishev-yuri.livejournal.com/"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="2"/>
+        </page>
+        <page>
+          <links/>
+          <id value="3"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="1"/>
+              <y value="152"/>
+              <width value="431"/>
+              <height value="322"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="4"/>
+        </page>
+        <page>
+          <links/>
+          <id value="5"/>
+        </page>
+        <page>
+          <links/>
+          <id value="6"/>
+        </page>
+        <page>
+          <links/>
+          <id value="7"/>
+        </page>
+        <page>
+          <links/>
+          <id value="8"/>
+        </page>
+        <page>
+          <links/>
+          <id value="9"/>
+        </page>
+        <page>
+          <links/>
+          <id value="10"/>
+        </page>
+        <page>
+          <links/>
+          <id value="11"/>
+        </page>
+        <page>
+          <links/>
+          <id value="12"/>
+        </page>
+        <page>
+          <links/>
+          <id value="13"/>
+        </page>
+        <page>
+          <links/>
+          <id value="14"/>
+        </page>
+        <page>
+          <links/>
+          <id value="15"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="227"/>
+              <y value="559"/>
+              <width value="122"/>
+              <height value="10"/>
+              <urls>
+                <url src="http://shturmnews.info/content/svyazatsya-s-nami.html"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="111"/>
+              <y value="569"/>
+              <width value="96"/>
+              <height value="13"/>
+              <urls>
+                <url src="http://shturmnews.info/"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="131"/>
+              <y value="556"/>
+              <width value="57"/>
+              <height value="13"/>
+              <urls>
+                <url src="http://pbrus.org/"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="16"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="151"/>
+              <y value="541"/>
+              <width value="135"/>
+              <height value="7"/>
+              <urls>
+                <url src="http://shturmnews.info/content/svyazatsya-s-nami.html"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="206"/>
+              <y value="530"/>
+              <width value="114"/>
+              <height value="10"/>
+              <urls>
+                <url src="http://shturmnews.info/"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="17"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="139"/>
+              <y value="114"/>
+              <width value="161"/>
+              <height value="21"/>
+              <urls>
+                <url src="http://ekishev-yuri.livejournal.com/"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="134"/>
+              <y value="208"/>
+              <width value="84"/>
+              <height value="15"/>
+              <urls>
+                <url src="http://pbrus.org/index.php?do=feedback"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="13"/>
+              <y value="208"/>
+              <width value="119"/>
+              <height value="15"/>
+              <urls>
+                <url src="http://shturmnews.info/"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="110"/>
+              <y value="223"/>
+              <width value="291"/>
+              <height value="12"/>
+              <urls>
+                <url src="http://shturmnews.info/content/svyazatsya-s-nami.html"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="265"/>
+              <y value="210"/>
+              <width value="148"/>
+              <height value="12"/>
+              <urls>
+                <url src="http://shturmnews.info/content/svyazatsya-s-nami.html"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="18"/>
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="other/search.txt"/>
+    <bookId value="{1CF544E4-95AF-4239-A6A6-7A48F5432EC7}"/>
+    <bookWidth value="556"/>
+    <bookHeight value="800"/>
+    <bookName value="Russian_order"/>
+    <bookBG src="other/background.jpg" scale="" width="556" height="800" color="13421772"/>
+    <hardCover value="false" border="false" color="16100206" width="15" height="15"/>
+    <bookLang value="en"/>
+    <tocVisible value="true"/>
+    <slideshowVisible value="false"/>
+    <bookmarksVisible value="true"/>
+    <searchVisible value="false"/>
+    <navigationVisible value="true"/>
+    <singlePageMode value="false"/>
+    <rightToLeftMode value="false"/>
+    <skin style="ClassicGrey"/>
+    <sessionRestore value="false"/>
+  </bookProperties>
+</Properties>

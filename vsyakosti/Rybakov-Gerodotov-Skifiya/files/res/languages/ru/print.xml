@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="ru">
+	<item name="LNG_PRINT_TITLE" label="Title">Печать</item>
+	<item name="LNG_PRINT_OK" label="OK Button">OK</item>
+	<item name="LNG_PRINT_TIP" label="Print Label">Выберите страницу(ы) или диапазон страниц для печати</item>
+	<item name="LNG_PRINT_INPUT_TIP" label="Input ToolTip">Пример:2-10,12,15</item>
+	<item name="LNG_PRINT_PREV" label="Previous Button">Предыдущие страницы</item>
+	<item name="LNG_PRINT_NEXT" label="Next Button">Следующие страницы</item>
+	<item name="LNG_PRINT_PRINT" label="Print selected">Печать выбранных страниц</item>
+	<item name="LNG_PRINT_TOO_MANY_PAGES" label="Many pages"><![CDATA[Вы не можете печатать больше <b>$1</b> страниц одновременно.Уменьшите число страниц (сейчас выбрано <b>$2</b> страниц).]]></item>
+	<item name="LNG_PRINT_WARNING" label="Warning">Предупреждение</item>
+</lang>

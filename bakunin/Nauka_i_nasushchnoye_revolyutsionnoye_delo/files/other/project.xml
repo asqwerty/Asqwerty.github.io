@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\Наука и насущное революционное дело\Наука и насущное революционное дело.fb" DefaultName="Наука и насущное революционное дело" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="0" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://goo.gl/S6otxI" ShowText="false" ShowSlider="false" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="Наука и насущное революционное дело" HtmlKeywords="Анархия, анархизм, рассуждения об анархизме, рассуждения, бакунин, борьба, народовластие, анализ, выводы, послание, статья, образование, обучение, урок, Россия" HtmlDescription="М.А.Бакунин" HtmlScript="Люди, мыслящие и занимающиеся ныне политическими и социальными вопросами в России, делятся на два разряда: одни хотят или воображают себе, что хотят, всевозможных реформ, улучшений, освобождений и всякого преуспеяния для нашего бедного, измученного народа, но стремятся ко всем этим благам путем государственным; они почти всегда порицают и часто ругают правительство, того или другого министра, пожалуй, самого государя, но вместе с тем думают, что государство есть лучшее и даже единственное средство для достижения народных целей и для осуществления высоких народных судеб; и потому ставят всегда и везде на первом плане преуспеяние и силу государства как единственно возможную основу для блага народного. Другие, напротив, дошли до того убеждения, что государство по существу и по форме вместе с церковью принадлежит к гнуснейшим и ко вреднейшим порождениям исторического невежества и рабства; что вообще всякое государство, а по преимуществу Всероссийское, не только мешает, но уничтожает в корне самую возможность благосостояния и свободы народов. Основываясь на таком убеждении, они думают, что для освобождения народа нашего необходимо полнейшее разрушение Всероссийского государства.&#xA;" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="en,jp,fr,de,ar,ru">
+  <book title="Наука и..." plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="en,jp,fr,de,ar,ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="-0.5" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://goo.gl/S6otxI" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_1_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_1_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_2_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_2_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_3_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_3_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_4_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_4_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_5_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_5_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_6_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_6_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_7_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_7_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_8_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_8_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_9_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_9_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_10_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_10_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_11_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_11_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_12_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_12_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_13_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_13_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_14_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_14_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_15_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_15_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_16_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_16_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_17_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_17_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_18_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_18_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_19_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_19_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_20_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_20_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_21_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_21_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_22_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_22_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_23_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_23_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_24_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_24_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_25_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_25_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_26_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_26_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+        <snds width="1" height="1" alpha="1" rotation="0" caption="ВОЛЯ АБО СМЕРТЬ" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\snds\Normal\skin01.swf" src="C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\PageEditor\playlist1_23(2).xml" onlywhenactive="true"/>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_27_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_27_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\en\high\Наука и насущное революционное дело_28_{C462325C-F3C1-4585-973D-4FA6292E6C97}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{B8570448-FF3C-4A33-B4D6-AE70DC6775D5}\files\pages\ru\high\Наука и насущное революционное дело_28_{C462325C-F3C1-4585-973D-4FA6292E6C97}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="3355443" Size="12" Style="1" Text="Наука и..." Url="https://plus.google.com/+SkeetCf1"/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase>
+    <item title="Анархия и Порядок" url="http://q32.pw/ybd" target="Current Tab" thumbnail="files/elements/bc0.jpg"/>
+    <item title="Государственность и Анархия" url="http://q32.pw/ybe" target="Current Tab" thumbnail="files/elements/bc1.jpg"/>
+    <item title="Исповедь" url="http://q32.pw/APj" target="Current Tab" thumbnail="files/elements/bc2.jpg"/>
+    <item title="Полемика против евреев" url="http://q32.pw/Bhg" target="Current Tab" thumbnail="files/elements/bc3.jpg"/>
+    <item title="Письма о Патриотизме" url="http://q32.pw/BkE" target="Current Tab" thumbnail="files/elements/bc4.jpg"/>
+  </BookCase>
+</flipbookmaker>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\Литература\Бакунин\Письма о Патриотизме\Рабочка\Письма о Патриотизме\Письма о Патриотизме.fb" DefaultName="Письма о Патриотизме" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="0" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://cloud.mail.ru/public/9VjB/5rMhd1KVF" ShowText="false" ShowSlider="true" ShowShare="true" ShowPrint="true" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="true" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="Письма о Патриотизме" HtmlKeywords="Бакунин, письма, патриотизм, анархия, анархизм, анархическое учение, письма бакунина, рассуждения о монархии, рассуждения об анархизме, рассуждения о буржуазии, буржуи, буржуазия, анархисты, борьба" HtmlDescription="Письма о Патриотизме" HtmlScript="Буржуа прошлого столетия искренно верили, что, освобождая самих себя от монархического,&#xA;клерикального и феодального ига, они освободят вместе с собой весь народ. И это наивное, искренное&#xA;верование и было источником их геройской смелости и их невероятной мощи. Они чувствовали свое&#xA;единение со всеми, и шли на приступ, неся в себе силу и право для всех. Благодаря этому праву и этой&#xA;народной мощи, которая, так сказать, воплотилась тогда в классе буржуазии, буржуа прошлого&#xA;столетия могли овладеть крепостью политического права, составлявшей предмет вожделения их отцов&#xA;в продолжении стольких столетий. Но в то мгновение, как они водрузили на ней свое знамя, новый&#xA;свет озарил их ум. Как только они завоевали власть, они начали понимать, что между их буржуазными&#xA;интересами и интересами народных масс нет нечего общего, что, напротив, между ними есть&#xA;радикальное противоречие, и что могущество и исключительное процветание класса собственников&#xA;могут опираться лишь на нищету и политическую и социальную зависимость пролетариата.&#xA;С тех пор отношения между буржуазией и народом коренным образом изменились, и еще&#xA;раньше, чем рабочие поняли, что буржуа, более по необходимости, чем по злой воле, являются их&#xA;естественными врагами, буржуа уже достигли сознания этого фатального антагонизма. Это то&#xA;создание я и называю нечистой совестью буржуа." PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title="Письма о Патриотизме" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="-0.5" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://cloud.mail.ru/public/9VjB/5rMhd1KVF" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_1_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_1_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_2_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_2_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_3_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_3_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_4_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_4_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_5_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_5_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_6_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_6_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_7_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_7_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_8_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_8_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_9_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_9_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_10_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_10_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_11_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_11_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_12_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_12_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_13_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_13_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_14_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_14_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_15_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_15_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_16_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_16_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_17_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_17_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_18_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_18_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_19_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_19_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_20_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_20_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+        <snds width="1" height="1" alpha="1" rotation="0" caption="Террор - Террористы-анархисты" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\snds\Normal\skin01.swf" src="C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\PageEditor\playlist1_17(1).xml" onlywhenactive="true"/>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_21_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_21_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\en\high\Письма о Патриотизме_22_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{E58A4D8D-B2F5-42C8-89D4-21EECD0B785C}\files\pages\ru\high\Письма о Патриотизме_22_{197245CA-78B0-4FCA-9B5E-64557CFC806C}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="16777215" Size="8" Style="1" Text="Письма о Патриотизме" Url="http://www.skeet.gq/Letters_Patriot.html"/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase>
+    <item title="Анархия и порядок" url="http://q32.pw/ybd" target="Current Tab" thumbnail="files/elements/bc0.jpg"/>
+    <item title="Государственность и Анархия" url="http://q32.pw/ybe" target="Current Tab" thumbnail="files/elements/bc1.jpg"/>
+    <item title="Исповедь" url="http://q32.pw/APj" target="Current Tab" thumbnail="files/elements/bc2.jpg"/>
+    <item title="Полемика против евреев" url="http://q32.pw/Bhg" target="Current Tab" thumbnail="files/elements/bc3.jpg"/>
+  </BookCase>
+</flipbookmaker>

@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\М.А\М.fb" DefaultName="М.А.Бакунин Избранные сочинения-Том №2" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="2" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.9" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://cloud.mail.ru/public/15Xf/dSMH4oEvM" ShowText="false" ShowSlider="false" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="М.А.Бакунин Избранные сочинения-Том 2" HtmlKeywords="Россия, Бакунин, анархия, анархизм, русский анархизм, европейский анархизм, европа, германия, франция, революция, борьба, противостояние, империя, мир, система, системы, государство" HtmlDescription="Доверие порождает единение, а единение создает силу, вот истины, которых, конечно, никто не будет пытаться отрицать. Но, чтобы это были истины, необходимы две вещи: нужно, чтобы доверие не было глупостью и чтобы единение, одинаково искреннее со стороны всех, не было самообманом, ложью или лицемерной эксплуатацией одной партии другою. Нужно, чтобы все объединяющиеся партии, совершенно забывая - конечно, не навсегда, но на все время, пока будет длиться их союз - свои частные и необходимо противоположные интересы, - интересы и цели, разделяющие их в обычное время, в равной мере были поглощены преследованием общей цели. Иначе что произойдет? Искренняя партия поневоле сделается жертвой и будет одурачена тою, которая будет менее искреннею или совершенно неискреннею. Она увидит себя принесенной в жертву не ради торжества общего дела, но в ущерб этому делу и ради исключительной выгоды партии, которая сумеет лицемерно эксплуатировать этот союз." HtmlScript="В настоящем издании «Кнуто-Германская Империя» впервые появляется на русском языке в полном объеме. Душеприказчик М. А Бакунина, Джемс Гильом, в своем предисловии подробно останавливается на обстоятельствах, вызвавших опубликование этого сочинения по частям. По тем же причинам и на русском языке имелись лишь переводы «Бога и Государства» изданного Неттлау, «Бога и Государства», изд. Реклю и Кафиеро и «Кнуто Германской империи», представляющей собою лишь один из отрывков настоящего труда. Предлагаемый перевод сделан целиком с издания 1907 г. Таким образом вторая часть настоящего издания впервые становится доступным русскому читателю. Переводчик не гнался за «легкостью и красотою слога» перевода приводящим часто к искажению мысли и духа оригинала. Ему представлялось предпочтительнее при соблюдении точности, правильности передачи мыслей автора и их оттенков, сохранить несколько тяжеловатый для русского уха и глаза стиль французского оригинала с длинными периодами и многочисленными придаточными предложениями. Читатель не посетует за необходимость употребить порою некоторое напряжение, чтобы проследить до конца мысль автора и будет с избытком вознагражден результатом своих усилий.&#xA;" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title=" " plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.9" password="" pwstart="0" spinecurvature="-0.5" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://cloud.mail.ru/public/15Xf/dSMH4oEvM" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_1_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_1_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_2_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_2_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_3_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_3_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_4_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_4_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_5_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_5_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_6_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_6_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_7_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_7_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_8_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_8_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_9_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_9_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_10_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_10_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_11_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_11_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_12_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_12_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_13_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_13_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_14_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_14_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_15_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_15_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_16_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_16_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_17_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_17_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_18_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_18_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_19_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_19_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_20_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_20_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_21_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_21_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_22_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_22_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_23_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_23_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_24_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_24_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_25_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_25_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_26_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_26_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_27_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_27_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_28_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_28_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_29_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_29_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_30_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_30_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_31_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_31_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_32_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_32_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_33_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_33_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_34_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_34_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_35_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_35_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_36_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_36_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_37_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_37_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_38_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_38_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_39_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_39_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_40_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_40_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_41_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_41_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_42_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_42_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_43_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_43_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_44_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_44_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_45_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_45_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_46_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_46_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_47_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_47_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_48_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_48_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_49_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_49_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_50_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_50_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_51_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_51_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_52_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_52_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_53_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_53_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_54_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_54_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_55_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_55_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_56_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_56_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_57_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_57_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_58_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_58_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_59_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_59_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_60_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_60_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_61_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_61_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_62_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_62_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_63_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_63_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_64_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_64_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_65_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_65_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_66_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_66_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_67_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_67_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_68_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_68_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_69_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_69_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_70_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_70_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_71_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_71_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_72_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_72_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_73_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_73_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_74_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_74_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_75_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_75_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_76_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_76_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_77_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_77_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_78_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_78_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_79_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_79_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_80_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_80_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_81_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_81_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_82_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_82_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_83_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_83_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_84_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_84_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_85_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_85_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_86_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_86_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_87_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_87_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_88_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_88_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_89_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_89_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_90_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_90_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_91_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_91_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_92_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_92_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_93_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_93_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_94_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_94_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_95_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_95_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_96_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_96_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_97_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_97_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_98_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_98_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_99_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_99_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_100_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_100_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_101_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_101_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_102_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_102_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_103_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_103_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_104_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_104_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_105_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_105_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_106_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_106_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_107_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_107_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_108_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_108_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_109_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_109_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_110_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_110_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_111_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_111_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_112_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_112_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_113_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_113_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_114_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_114_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_115_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_115_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_116_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_116_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_117_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_117_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_118_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_118_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_119_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_119_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_120_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_120_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_121_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_121_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_122_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_122_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_123_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_123_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_124_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_124_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_125_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_125_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_126_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_126_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_127_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_127_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_128_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_128_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_129_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_129_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_130_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_130_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_131_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_131_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_132_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_132_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_133_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_133_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_134_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_134_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_135_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_135_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_136_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_136_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+        <snds width="1" height="1" alpha="1" rotation="0" caption="В.Цыганова-Гуляй анархия" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\snds\Normal\skin01.swf" src="C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\PageEditor\playlist1_133.xml" onlywhenactive="true"/>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="565" height="800" widthorg="595" heightorg="843" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_137_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_137_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\en\high\М.А.Бакунин Избранные сочинения-Том №2_138_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{67CE7DA3-C47F-4704-94AF-C1EE5446D4BE}\files\pages\ru\high\М.А.Бакунин Избранные сочинения-Том №2_138_{3F544E19-86E0-44AA-B45E-31DC3BF0D049}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="3355443" Size="12" Style="1" Text=" " Url=""/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase>
+    <item title="М.А.Бакунин Избранные сочинения-Том 1" url="http://q32.pw/Cib" target="Current Tab" thumbnail="files/elements/bc0.jpg"/>
+    <item title="М.А.Бакунин Избранные сочинения-Том 3" url="http://q32.pw/Cie" target="New Tab" thumbnail="files/elements/bc1.jpg"/>
+    <item title="М.А.Бакунин Избранные сочинения-Том 4" url="http://q32.pw/Cif" target="New Tab" thumbnail="files/elements/bc2.jpg"/>
+    <item title="М.А.Бакунин Избранные сочинения-Том 5" url="http://q32.pw/Cig" target="Current Tab" thumbnail="files/elements/bc3.jpg"/>
+  </BookCase>
+</flipbookmaker>

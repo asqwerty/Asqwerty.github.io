@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\Протест «Альянса»\Протест «Альянса».fb" DefaultName="Протест «Альянса»" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="0" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.9" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="16" ZoomStep="0.15, 0.20, 0.25, 0.3, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://goo.gl/vMD2VP" ShowText="true" ShowSlider="false" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="Протест «Альянса»" HtmlKeywords="Анархия, анархизм, русский анархизм, бакунин, записки бакунина, школа анархизма, Россия, Европа, мировое сообщество, литература, интересное, философия, рассуждения, обучение, образование, общество, государство" HtmlDescription="Протест «Альянса» М.А.Бакунин" HtmlScript="Дорогие друзья по чтению. Книга &quot;Протест «Альянса»&quot; Бакунин Михаил Александрович произведет достойное впечатление на любителя данного жанра. Это настоящее явление в литературе, которое не любишь, а восхищаешься всем естеством, оно не нравится, а приводит в неописуемый восторг. Портрет главного героя подобран очень удачно, с первых строк проникаешься к нему симпатией, сопереживаешь ему, радуешься его успехам, огорчаешься неудачами. Умелое и красочное иллюстрирование природы, мест событий часто завораживает своей непередаваемой красотой и очарованием. Актуальность проблематики, взятой за основу, можно отнести к разряду вечных, ведь пока есть люди их взаимоотношения всегда будут сложными и многообразными. На протяжении всего романа нет ни одного лишнего образа, ни одной лишней детали, ни одной лишней мелочи, ни одного лишнего слова. Просматривается актуальная во все времена идея превосходства добра над злом, света над тьмой с очевидной победой первого и поражением второго. Загадка лежит на поверхности, а вот ключ к отгадке едва уловим, постоянно ускользает с появлением все новых и новых деталей. Умеренное уделение внимания мелочам, создало довольно четкую картину, но и не лишило читателя места для его личного воображения. Основное внимание уделено сложности во взаимоотношениях, но легкая ирония, сглаживает острые углы и снимает напряженность с читателя. Финал немножко затянут, но это вполне компенсируется абсолютно непредсказуемым окончанием. &quot;Протест «Альянса»&quot; Бакунин Михаил Александрович читать бесплатно онлайн приятно и увлекательно, все настолько гармонично, что хочется вернуться к нему еще раз." PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title=" " plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.9" password="" pwstart="0" spinecurvature="-0.5" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.15, 0.20, 0.25, 0.3, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" maxloaded="16" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://goo.gl/vMD2VP" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_1_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_1_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_2_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_2_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_3_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_3_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_4_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_4_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_5_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_5_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_6_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_6_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_7_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_7_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_8_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_8_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_9_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_9_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_10_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_10_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_11_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_11_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_12_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_12_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_13_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_13_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_14_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_14_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_15_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_15_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_16_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_16_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_17_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_17_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_18_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_18_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_19_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_19_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_20_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_20_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_21_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_21_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_22_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_22_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_23_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_23_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_24_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_24_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_25_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_25_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_26_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_26_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_27_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_27_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_28_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_28_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_29_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_29_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_30_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_30_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+        <snds width="1" height="1" alpha="1" rotation="0" caption="Черный_Ворон_Казачий_хор" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\snds\Normal\skin01.swf" src="C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\PageEditor\playlist1_27.xml" onlywhenactive="true"/>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_31_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_31_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\en\high\Протест «Альянса»_32_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{A299937D-9226-46EA-B871-F4F8E60D8AD5}\files\pages\ru\high\Протест «Альянса»_32_{96346C1F-5482-4FF9-B8C2-CA37C03B69FD}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="3355443" Size="12" Style="1" Text=" " Url=""/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase>
+    <item title="Анархия и порядок" url="http://q32.pw/ybd" target="Current Tab" thumbnail="files/elements/bc0.jpg"/>
+    <item title="Государственность и Анархия" url="http://q32.pw/ybe" target="Current Tab" thumbnail="files/elements/bc1.jpg"/>
+    <item title="Исповедь" url="http://q32.pw/APj" target="Current Tab" thumbnail="files/elements/bc2.jpg"/>
+    <item title="Полемика против евреев" url="http://q32.pw/Bhg" target="Current Tab" thumbnail="files/elements/bc3.jpg"/>
+    <item title="Письма о Патриотизме" url="http://q32.pw/BkE" target="Current Tab" thumbnail="files/elements/bc4.jpg"/>
+    <item title="Наука и насущное революционное дело" url="http://q32.pw/BmF" target="Current Tab" thumbnail="files/elements/bc5.jpg"/>
+    <item title="Организация Интернационала" url="http://q32.pw/Bqx" target="Current Tab" thumbnail="files/elements/bc6.jpg"/>
+  </BookCase>
+</flipbookmaker>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="4.3.3" skin="files/elements/Skin_skin01.swf" miniskin="files/elements/MiniSkin_skin01_mini.swf" startmini="true" onlywhenactive="true" playmode="1" loopmode="1">
+  <music name="Пурген (PURGEN) – Анархия" src="files/elements/Snd_199_1_0.mp3"/>
+</playlist>

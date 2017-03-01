@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="ru">
+	<item name="LNG_FIRST_PAGE" label="First Page Button">Первая страница</item>
+	<item name="LNG_LAST_PAGE" label="Last Page Button">Последняя страница</item>
+	<item name="LNG_PREV_PAGE" label="Previous Page Button">Предыдущая страница</item>
+	<item name="LNG_NEXT_PAGE" label="Next Page Button">Следующая страница</item>
+	<item name="LNG_GOTO_PAGE" label="Page Number">Страница $1</item>
+	<item name="LNG_GOTO_PAGE_TIP" label="Page Number ToolTip"></item>
+	<item name="LNG_FULLSCREEN" label="Fullscreen Button">Полный экран</item>
+	<item name="LNG_EXITFULLSCREEN" label="Exit Fullscreen Button">Выход из полного экрана</item>
+	<item name="LNG_MUTE" label="Mute Button">Без звука</item>
+	<item name="LNG_MUSIC" label="Music Button">Музыка</item>
+	<item name="LNG_ZOOM_IN" label="ZoomIn Button">Увеличить</item>
+	<item name="LNG_ZOOM_OUT" label="ZoomOut Button">Уменьшить</item>
+	<item name="LNG_DOWNLOAD" label="Download Button">Загрузка</item>
+	<item name="LNG_TITLE" label="Title">название</item>
+	<item name="LNG_BOOKMARKS" label="Bookmarks Button">Закладки</item>
+	<item name="LNG_SHARE" label="Share Button">Общий доступ</item>
+	<item name="LNG_SEARCH" label="Search Button">Поиск</item>
+	<item name="LNG_TOC" label="TOC Button">Заглавие</item>
+	<item name="LNG_THUMBNAIL" label="Thumbnails Button">Миниатюры</item>
+	<item name="LNG_PRINT" label="Print Button">Печать</item>
+	<item name="LNG_PLAY" label="Play Button">Воспроизвести</item>
+	<item name="LNG_STOP" label="Stop Button">Остановить</item>
+	<item name="LNG_TOOLBAR_PAGINATION" label="Pagination">Разбивка:</item>
+</lang>
