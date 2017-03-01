@@ -435,14 +435,14 @@
       <file name="master_______-a.css" crc="152087143" ref="tablet>index"/>
       <file name="index.css" crc="4201777874" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="11789743" mt="1488366105477" redirect="true"/>
+    <file name="index.html" crc="232908875" mt="1488382869440" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_______-a.css" crc="408402665" ref="phone>index"/>
       <file name="index.css" crc="159436081" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4273425148" mt="1488366143885" redirect="true"/>
+    <file name="index.html" crc="363690521" mt="1488382880637" redirect="true"/>
   </folder>
-  <file name="index.html" crc="235474892" mt="1488366045732" redirect="true"/>
+  <file name="index.html" crc="3974280010" mt="1488382891346" redirect="true"/>
 </manifest>
