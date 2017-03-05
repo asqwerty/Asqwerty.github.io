@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\без медиа Сказка о проделках хана\без медиа Сказка о проделках хана.fb" DefaultName="без медиа Сказка о проделках хана" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="0" PageBackColor="13421772" PageTranColor="0" FoldLine="1" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="http://www.oplata.info/asp2/pay_wm.asp?id_d=1985575&amp;lang=ru-RU" ShowText="false" ShowSlider="true" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="false" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="false" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="Сказка о проделках хана..." HtmlKeywords="Сказка, поэзия, современная поэзия, русская поэзия, политическая сатира, сатира, россия, Путин" HtmlDescription="Политическая сатира изложенная в поэтическом произведении." HtmlScript="Политическая сатира изложенная в поэтическом произведении повествующим о том, как некий самозванец, возглавил один из уделов неизведанного царства, пособничая верховным самозванцам в превращении некогда социалистического, а позже дико-капиталистического и псевдодемократического государства в авторитарно-тоталитарное царство антагонистического образца, по отношению к его народонаселению." PageWidth="564" PageHeight="800" CoverWidth="564" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title="Сказка о проделках хана..." plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="564" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="1" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="http://www.oplata.info/asp2/pay_wm.asp?id_d=1985575&amp;lang=ru-RU" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdge">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="564" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_1_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_1_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_2_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_2_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="564" pageheight="800">
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_3_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_3_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="594" heightorg="840" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_4_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_4_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="563" height="800" widthorg="591" heightorg="840" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_5_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_5_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-50" top="-50" height="1" alpha="1" rotation="0" caption="Video 1" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="C:\Users\Asqwerty\Desktop\1_2.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_6_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_6_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_7_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_7_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="115" top="456" width="333" height="233" alpha="1" rotation="0" caption="Собака бывает" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Собака бывает.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_8_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_8_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_9_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_9_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Джентельмены удачи" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Джентельмены удачи.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_10_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_10_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_11_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_11_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="134" top="373" width="296" height="328" alpha="1" rotation="0" caption="Рожа" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Рожа.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_12_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_12_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_13_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_13_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="120" top="158" width="325" height="218" alpha="1" rotation="0" caption="Все свободны" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Все свободны.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_14_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_14_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_15_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_15_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-50" top="-50" width="1" height="1" alpha="1" rotation="0" caption="Курай" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Курай_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_16_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_16_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="116" top="108" width="333" height="233" alpha="1" rotation="0" caption="Есть ли у вас план, мистер Фикс" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Есть ли у вас план, мистер Фикс.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_17_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_17_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_18_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_18_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_19_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_19_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_20_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_20_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-50" top="-50" width="1" height="1" alpha="1" rotation="0" caption="У меня отбирают мой дом" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\У меня отбирают мой дом_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_21_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_21_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-50" top="-50" width="1" height="1" alpha="1" rotation="0" caption="А голова-предмет темный и исследованию не подлежит" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\А голова-предмет темный..и исследованию не подлежит_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_22_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_22_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_23_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_23_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-50" top="-50" height="1" alpha="1" rotation="0" caption="Раскаты грома" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Раскаты грома_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_24_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_24_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_25_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_25_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_26_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_26_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_27_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_27_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="119" top="105" width="327" height="273" alpha="1" rotation="0" caption="Оглан" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Оглан.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_28_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_28_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="122" top="221" width="319" height="326" scaleX="0.987770897832817" scaleY="0.991337386018237" alpha="1" rotation="0" caption="Гроза" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Гроза.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_29_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_29_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_30_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_30_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_31_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_31_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_32_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_32_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="120" top="321" width="326" height="289" alpha="1" rotation="0" caption="25 баранов" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\25 Баранов.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_33_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_33_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_34_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_34_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_35_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_35_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="123" top="94" width="322" height="268" scaleX="0.991076923076923" scaleY="0.989114391143912" alpha="1" rotation="0" caption="А ну канай отсюда" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\А ну канай отсюда.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_36_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_36_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Джентельмены удачи" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Джентельмены удачи.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_37_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_37_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_38_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_38_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_39_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_39_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_40_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_40_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_41_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_41_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="130" top="443" width="308" height="273" scaleX="0.984345047923323" scaleY="0.989492753623188" alpha="1" rotation="0" caption="Милый Чё!" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Милый Чё!-1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_42_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_42_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-50" top="-50" width="1" height="1" alpha="1" rotation="0" caption="Швондер - Суровые годы уходят" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Швондер - Суровые годы уходят_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_43_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_43_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_44_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_44_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_45_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_45_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Цирк, Цирк, Цирк !!!" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Цирк, Цирк, Цирк !!!_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_46_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_46_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_47_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_47_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="114" top="93" width="336" height="412" scaleY="0.997578692493947" alpha="1" rotation="0" caption="Правосудие продано" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Правосудие продано.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_48_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_48_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_49_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_49_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_50_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_50_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_51_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_51_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="141" top="233" width="283" height="335" scaleX="1.00693950177936" alpha="1" rotation="0" caption="Друг Помоги" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Друг Помоги-2.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_52_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_52_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Курай" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Курай_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_53_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_53_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_54_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_54_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_55_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_55_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Водопад из монет" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Водопад из монет_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_56_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_56_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_57_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_57_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Турецкая мелодия" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Турецкая мелодия_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_58_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_58_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_59_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_59_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="109" top="416" width="347" height="275" scaleX="0.99985590778098" scaleY="0.996014492753623" alpha="1" rotation="0" caption="8 баранов" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\8 баранов.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_60_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_60_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_61_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_61_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_62_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_62_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_63_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_63_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_64_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_64_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Азан-призыв к молитве" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Азан-призыв к молитве.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_65_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_65_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_66_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_66_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Музыка персов" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Музыка персов.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_67_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_67_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_68_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_68_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Жить хорошо" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Жить хорошо.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_69_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_69_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_70_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_70_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_71_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_71_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_72_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_72_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_73_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_73_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_74_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_74_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_75_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_75_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_76_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_76_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_77_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_77_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="123" top="487" width="322" height="217" scaleX="0.990461538461538" scaleY="0.99041095890411" alpha="1" rotation="0" caption="Хочешь любви" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Хочешь любви.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_78_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_78_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_79_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_79_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Верка Сердючка - Всё Будет Хорошо (На Татарском Языке)" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Верка Сердючка - Всё Будет Хорошо (На Татарском Языке).f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_80_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_80_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_81_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_81_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_82_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_82_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_83_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_83_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Макаревич-сказка про законодательство" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Макаревич-сказка про законодательство.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_84_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_84_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_85_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_85_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_86_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_86_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_87_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_87_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="122" top="428" width="323" height="268" scaleX="0.994" alpha="1" rotation="0" caption="Богоборчество" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Богоборчество.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_88_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_88_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_89_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_89_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_90_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_90_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Давай за нефть!" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Давай за нефть!.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_91_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_91_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_92_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_92_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_93_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_93_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Курай" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Курай_1.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_94_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_94_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_95_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_95_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="123" top="468" width="321" height="241" scaleX="0.987384615384615" scaleY="0.999792531120332" alpha="1" rotation="0" caption="Выборы" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Выборы 2.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_96_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_96_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_97_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_97_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Джентельмены удачи" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Джентельмены удачи.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_98_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_98_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="562" height="800" widthorg="591" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_99_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_99_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_100_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_100_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_101_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_101_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_102_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_102_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_103_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_103_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Андрей Макаревич-Песня про баранов" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Андрей Макаревич-Песня про баранов.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_104_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_104_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_105_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_105_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="121" top="97" width="325" height="375" scaleX="0.994036697247706" scaleY="0.997473404255319" alpha="1" rotation="0" caption="Выборы" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Выборы 2.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_106_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_106_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Курай" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\player01.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\player01.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Курай.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_107_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_107_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_108_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_108_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Башкирский курай" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Башкирский курай.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_109_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_109_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_110_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_110_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_111_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_111_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_112_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_112_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_113_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_113_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Шаманская Музыка" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Шаманская Музыка.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_114_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_114_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="121" top="384" width="323" height="272" scaleX="0.997067901234568" scaleY="0.992883211678832" alpha="1" rotation="0" caption="Парабеллум" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Парабеллум-2.mp4"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_115_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_115_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_116_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_116_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="ЕЛЬЦИН   Про Путина" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\ЕЛЬЦИН   Про Путина.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_117_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_117_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_118_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_118_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_119_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_119_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_120_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_120_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_121_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_121_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_122_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_122_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_123_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_123_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="124" top="260" width="319" height="289" scaleX="0.987925696594427" scaleY="0.996724137931034" alpha="1" rotation="0" caption="Сам дурак" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Сам дурак.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_124_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_124_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_125_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_125_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Идеал" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Идеал.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_126_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_126_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_127_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_127_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Курай" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Курай.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_128_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_128_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_129_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_129_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="122" top="458" width="322" height="234" scaleX="0.990615384615385" scaleY="0.991313559322034" alpha="1" rotation="0" caption="Царская рожа" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Видео сжатое\Царская рожа.mp4"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_130_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_130_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Шотландская Средневековая Музыка" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Шотландская Средневековая Музыка.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_131_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_131_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_132_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_132_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_133_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_133_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="10" alpha="1" rotation="0" caption="Мастер и Маргарита" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Мастер и Маргарита.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_134_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_134_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Дорогою добра - Маленький Мук" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Дорогою добра - Маленький Мук.f4v"/>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_136_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_136_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="594" heightorg="840" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_135_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_135_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Вольность2" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="H:\Документы\Сказания смутного времени\Аудио\Аудио МР4\Вольность2.f4v"/>
+      </page>
+    </chapter>
+    <chapter pagewidth="564" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_137_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_137_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="594" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\en\high\без медиа Сказка о проделках хана_138_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\pages\ru\high\без медиа Сказка о проделках хана_138_{E4E9BE72-2E08-4C50-9B1C-B0D2680188DE}_ru.swf</src>
+        </img>
+        <vid left="-50" top="-50" width="1" height="1" alpha="1" rotation="0" caption="А чё это вы здесь делаете" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" gui="C:\Program Files\Kvisoft\Flipbook Maker Pro\elements\Player\Normal\none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{91E29A59-2B49-4CE9-864D-7DD352A23A91}\files\elements\А чё это вы здесь делаете_0.f4v"/>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="8421504" Size="8" Style="0" Text="Сказка о проделках хана..." Url="http://q32.pw/jLN"/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase>
+    <item title="" url="http://q32.pw/jLW" target="Current Tab" thumbnail="files/elements/bc0.jpg"/>
+    <item title="" url="http://q32.pw/jLg" target="Current Tab" thumbnail="files/elements/bc1.jpg"/>
+  </BookCase>
+</flipbookmaker>

@@ -2343,31 +2343,14 @@
 		<priority>0.9</priority>
 	</url>
 	<url>
-		<loc>https://asqwerty04.github.io/vsyakosti/Predvoyennaya_lirika/Predvoyennaya_lirika.pdf</loc>
-		<lastmod>2016-10-08</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.9</priority>
-	</url>
-	<url>
 		<loc>https://asqwerty04.github.io/vsyakosti/Russkiy_poryadok-organizatsionnoye_oruzhiye/index.html</loc>
 		<lastmod>2016-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.9</priority>
 	</url>
 	<url>
-		<loc>https://asqwerty04.github.io/vsyakosti/Russkiy_poryadok-organizatsionnoye_oruzhiye/Russkiy_poryadok-organizatsionnoye_oruzhiye.pdf</loc>
-		<lastmod>2016-10-08</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.9</priority>
-	</url>
 	<url>
 		<loc>https://asqwerty04.github.io/vsyakosti/Rybakov-Gerodotov-Skifiya/index.html</loc>
-		<lastmod>2016-10-08</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.9</priority>
-	</url>
-	<url>
-		<loc>https://asqwerty04.github.io/vsyakosti/Rybakov-Gerodotov-Skifiya/Rybakov-Gerodotov-Skifiya.pdf</loc>
 		<lastmod>2016-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.9</priority>
@@ -2379,7 +2362,156 @@
 		<priority>0.9</priority>
 	</url>
 	<url>
-		<loc>https://asqwerty04.github.io/vsyakosti/Strana_russkikh-komu_pravit_rossiya/Strana_russkikh-komu_pravit_rossiya.pdf</loc>
+		<loc>https://asqwerty04.github.io/bakunin/Anarkhiya_i_poryadok/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Gosudarstvennost_i_anarkhiya/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Ispoved/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Nauka_i_nasushchnoye_revolyutsionnoye_delo/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Organizatsiya_internatsionala/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Polemika_protiv_evreev/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Protest_alyansa/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/To_Pisma_o_patriotizma/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Tom1/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Tom2/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Tom3/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Tom4/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/bakunin/Tom5/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/frost/drugaya_doroga/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/frost/Izbrannoje/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/frost/perevody/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/frost/perevody2/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/frost/perevody2-2/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/frost/robert_Frost/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/gerodot/Clio/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/gerodot/Erato/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/gerodot/Evrepa/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/gerodot/Melpomene/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/gerodot/Taliya/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://asqwerty04.github.io/gerodot/Terpsikhora/index.html</loc>
+		<lastmod>2016-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+		<loc>https://asqwerty04.github.io/vanya/Skazka_o_prodelkakh_khana/index.html</loc>
 		<lastmod>2016-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.9</priority>
