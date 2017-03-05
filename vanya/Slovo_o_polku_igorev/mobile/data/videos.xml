@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos version="4.3.3" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" autoPlay="false" autoRepeat="false" showControl="false" stopWhenFlip="false">
+  <video page="244" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_241_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="261" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_258_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="266" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_263_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="268" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_265_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="286" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_283_1.f4v" autoPlay="true" autoRepeat="true" showControl="false" stopWhenFlip="false"/>
+  <video page="296" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_293_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="298" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_295_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="301" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_298_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="302" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_299_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="306" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_303_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="313" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_310_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="321" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_318_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="323" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_320_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="325" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_322_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="331" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_0_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+</videos>
