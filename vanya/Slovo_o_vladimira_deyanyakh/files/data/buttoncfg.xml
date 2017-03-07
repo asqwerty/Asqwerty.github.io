@@ -22,7 +22,7 @@
   <buttoncfg name="btn_zoomin" visible="true"/>
   <buttoncfg name="btn_zoomout" visible="true"/>
   <buttoncfg name="btn_lang" visible="false"/>
-  <buttoncfg name="slider" visible="false"/>
+  <buttoncfg name="slider" visible="true"/>
   <buttoncfg name="zoomslider" visible="true"/>
   <buttoncfg name="goto_page" visible="true"/>
   <buttoncfg name="btn_bookcase" visible="true"/>

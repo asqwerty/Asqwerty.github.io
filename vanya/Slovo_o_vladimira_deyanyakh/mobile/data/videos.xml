@@ -4,17 +4,19 @@
   <video page="4" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_1_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="12" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_9_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="15" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_12_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
-  <video page="19" pagewidth="565" pageheight="800" x="115" y="69" width="335" height="277" url="content/videos/Vid_16_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="19" pagewidth="565" pageheight="800" x="113" y="67" width="337" height="282" url="content/videos/Vid_16_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="20" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_17_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="22" pagewidth="565" pageheight="800" x="60" y="432" width="442" height="306" url="content/videos/Vid_19_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="24" pagewidth="565" pageheight="800" x="77" y="66" width="407" height="299" url="content/videos/Vid_21_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="24" pagewidth="565" pageheight="800" x="249" y="283" width="10" height="10" url="content/videos/Vid_21_2.mp4" autoPlay="true" autoRepeat="true" showControl="false" stopWhenFlip="false"/>
   <video page="26" pagewidth="565" pageheight="800" x="92" y="61" width="380" height="282" url="content/videos/Vid_23_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="28" pagewidth="565" pageheight="800" x="79" y="74" width="408" height="276" url="content/videos/Vid_25_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="30" pagewidth="565" pageheight="800" x="133" y="64" width="298" height="323" url="content/videos/Vid_27_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="33" pagewidth="565" pageheight="800" x="70" y="70" width="426" height="320" url="content/videos/Vid_30_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="35" pagewidth="565" pageheight="800" x="90" y="62" width="388" height="269" url="content/videos/Vid_32_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="35" pagewidth="565" pageheight="800" x="90" y="62" width="387" height="269" url="content/videos/Vid_32_2.mp4" autoPlay="true" autoRepeat="true" showControl="false" stopWhenFlip="false"/>
   <video page="41" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_38_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
-  <video page="42" pagewidth="565" pageheight="800" x="62" y="60" width="443" height="307" url="content/videos/Vid_39_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="42" pagewidth="565" pageheight="800" x="62" y="60" width="443" height="307" url="content/videos/Vid_39_1.mp4" autoPlay="true" autoRepeat="true" showControl="false" stopWhenFlip="true"/>
   <video page="44" pagewidth="565" pageheight="800" x="74" y="63" width="416" height="285" url="content/videos/Vid_41_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="46" pagewidth="565" pageheight="800" x="75" y="71" width="415" height="288" url="content/videos/Vid_43_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="51" pagewidth="565" pageheight="800" x="55" y="59" width="452" height="339" url="content/videos/Vid_48_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
