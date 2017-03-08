@@ -63,7 +63,7 @@
         <src lang="en">files/pages/en/high/page4.swf</src>
         <src lang="ru">files/pages/ru/high/page4.swf</src>
       </img>
-      <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Вольность1" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Enterprise\elements\Player\Normal\none.swf" gui="files/elements/none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="files/elements/Vid_1_1.f4v"/>
+      <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="Вольность1-2" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Enterprise\elements\Player\Normal\none.swf" gui="files/elements/none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="files/elements/Vid_1_1.f4v"/>
     </page>
     <page stiffskew="1" shadows="0" foldfx="0">
       <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
@@ -1965,7 +1965,7 @@
         <src lang="en">files/pages/en/high/page136.swf</src>
         <src lang="ru">files/pages/ru/high/page136.swf</src>
       </img>
-      <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="А чё это вы здесь делаете" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Enterprise\elements\Player\Normal\none.swf" gui="files/elements/none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="files/elements/Vid_1_1.f4v"/>
+      <vid left="-5000" top="-5000" width="1" height="1" alpha="1" rotation="0" caption="А чё это вы здесь делаете" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Enterprise\elements\Player\Normal\none.swf" gui="files/elements/none.swf" loop="false" onlywhenactive="true" stoptopreview="false" src="files/elements/Vid_1_1.mp4"/>
     </page>
   </chapter>
 </book>

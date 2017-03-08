@@ -53,5 +53,5 @@
   <video page="131" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_128_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="132" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_129_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
   <video page="134" pagewidth="565" pageheight="800" x="5" y="238" width="555" height="398" url="content/videos/Vid_131_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
-  <video page="136" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_1_1.f4v" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
+  <video page="136" pagewidth="565" pageheight="800" x="-5000" y="-5000" width="1" height="1" url="content/videos/Vid_1_1.mp4" autoPlay="true" autoRepeat="false" showControl="false" stopWhenFlip="true"/>
 </videos>
