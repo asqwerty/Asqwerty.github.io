@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="en">
+	<langstring name="LNG_DRAWING" label="Toggle drawing tools">Переключить на инструменты рисования</langstring>
+	<langstring name="LNG_DRAWING_PEN_THICKNESS" label="Line thickness">Толщина линии</langstring>
+	<langstring name="LNG_DRAWING_PEN_ALPHA" label="Opacity">Непрозрачность</langstring>
+	<langstring name="LNG_DRAWING_PEN_DYNAMICS" label="Dynamic line thickness">Динамическая толщина линии</langstring>
+	<langstring name="LNG_DRAWING_PEN_COLOR" label="Color">Цвет</langstring>
+	<langstring name="LNG_DRAWING_CLEAR" label="Clear drawing tip">Очистить текущие страницы. Для удаления одной строки, щелкните её, удерживайте клавишу ALT.</langstring>
+	<langstring name="LNG_DRAWING_SAVE" label="Save changes">Сохранить изменения</langstring>
+	<langstring name="LNG_DRAWING_CLOSE" label="Close">Close</langstring>
+</lang>

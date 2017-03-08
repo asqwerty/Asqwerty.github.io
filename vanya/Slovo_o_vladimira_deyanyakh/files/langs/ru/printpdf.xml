@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="en">
+	<langstring name="LNG_PRINTPDF" label="Save as PDF">Сохранить как PDF</langstring>
+	<langstring name="LNG_PRINTPDF_CLOSE" label="Close">Закрыть</langstring>
+	<langstring name="LNG_PRINTPDF_INFO" label="Select pages tip">Выберите страницы, которые вы хотите сохранить в формате PDF, нажав на них.</langstring>
+	<langstring name="LNG_PRINTPDF_INFO2" label="Manually input page numbers">Или введите номера страниц вручную, разделяя числа, при этом используя точку с запятой. Определите диапазоны с помощью дефиса, например: 10-20.</langstring>
+	<langstring name="LNG_PRINTPDF_PREV" label="Previous pages">Предыдущая страница</langstring>
+	<langstring name="LNG_PRINTPDF_NEXT" label="Next pages">Следующая страница</langstring>
+	<langstring name="LNG_PRINTPDF_PRINT" label="Save selected pages">Сохранить выбранные страницы</langstring>
+	<langstring name="LNG_PRINTPDF_SAVE_COMPLETE" label="Save complete book">Сохранить полную книгу (игнорируя выбор)</langstring>
+	<langstring name="LNG_PRINTPDF_TOO_MANY_PAGES" label="Warning tip"><![CDATA[<b>Предупреждение</b><br/>В связи с техническими ограничениями невозможно одновременно сохранить более <b>$1</b> страниц. Уменьшите выбор (в настоящее время вы выбрали <b>$2</b> страницы).<br/>Кроме того, сохраните всю книгу, нажав кнопку "Сохранить полную книгу".]]></langstring>
+</lang>
