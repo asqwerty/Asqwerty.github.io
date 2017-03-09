@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="en">
+	<langstring name="LNG_SEARCH_TITLE" label="Search Button">Поиск</langstring>
+	<langstring name="LNG_SEARCH_START" label="Start search">Начать поиск</langstring>
+	<langstring name="LNG_SEARCH_RESULT_INFO" label="Matching page number">По страницам $1, $2 совпадения.</langstring>
+	<langstring name="LNG_SEARCH_RESULTS_CLOSE" label="Close">Закрыть</langstring>
+	<langstring name="LNG_SEARCH_RESULTS_TITLE" label="Search results">Результаты поиска</langstring>
+	<langstring name="LNG_SEARCH_RESULTS_SEARCHING" label="Searching...">Поиск...</langstring>
+	<langstring name="LNG_SEARCH_RESULTS_SUMMARY" label="Show matches tip">Показаны $1 of $2 совпадения для '$3'.</langstring>
+	<langstring name="LNG_SEARCH_RESULTS_EMPTY" label="No matches tip">Нет совпадений для '$1'.</langstring>
+	<langstring name="LNG_SEARCH_RESULTS_ERROR" label="Error tip">Ошибка во время поиска.</langstring>
+</lang>
