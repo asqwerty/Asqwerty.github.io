@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<lang id="en">
-	<langstring name="LNG_SLIDESHOW_START" label="Start ToolTip">Начать слайд-шоу</langstring>
-	<langstring name="LNG_SLIDESHOW_STOP" label="Stop ToolTip">Остановить показ слайдов</langstring>
-</lang>
