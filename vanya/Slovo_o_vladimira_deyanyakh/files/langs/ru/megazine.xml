@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lang id="en">
-	<langstring name="LNG_LANGUAGE_NAME" label="Language ToolTip">English</langstring>
+	<langstring name="LNG_LANGUAGE_NAME" label="Language ToolTip">Русский</langstring>
 	<langstring name="LNG_LOADING" label="Page Loading">Загрузка... $1%</langstring>
 	<langstring name="LNG_BOOKEDGE_PAGENUMBER" label="Page Number">Перейти к странице $1</langstring>
 	<langstring name="LNG_OK" label="OK">OK</langstring>

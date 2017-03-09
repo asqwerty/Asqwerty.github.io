@@ -23,9 +23,9 @@
 	<langstring name="LNG_SHARE" label="Share Button">Поделится</langstring>
 	<langstring name="LNG_SEARCH" label="Search Button">Поиск</langstring>
 	<langstring name="LNG_DOWNLOAD" label="Download Button">Загрузка</langstring>
-	<langstring name="LNG_ABOUT" label="About Button">О книге</langstring>
-	<langstring name="LNG_Exit" label="Exit Button">Стоп</langstring>
+	<langstring name="LNG_ABOUT" label="About Button">О издании</langstring>
+	<langstring name="LNG_Exit" label="Exit Button">Выход</langstring>
 	<langstring name="LNG_BOOKCASE" label="Bookcase">Книжный шкаф</langstring>
-	<langstring name="LAN_PLAY" label="About Button">Play</langstring>
-	<langstring name="LAN_STOP" label="Exit Button">Stop</langstring>
+	<langstring name="LAN_PLAY" label="About Button">О книге</langstring>
+	<langstring name="LAN_STOP" label="Exit Button">Выход</langstring>
 </lang>

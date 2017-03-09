@@ -7,5 +7,5 @@
 	<langstring name="LNG_DRAWING_PEN_COLOR" label="Color">Цвет</langstring>
 	<langstring name="LNG_DRAWING_CLEAR" label="Clear drawing tip">Очистить текущие страницы. Для удаления одной строки, щелкните её, удерживайте клавишу ALT.</langstring>
 	<langstring name="LNG_DRAWING_SAVE" label="Save changes">Сохранить изменения</langstring>
-	<langstring name="LNG_DRAWING_CLOSE" label="Close">Close</langstring>
+	<langstring name="LNG_DRAWING_CLOSE" label="Close">Закрыть</langstring>
 </lang>
