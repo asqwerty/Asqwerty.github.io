@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="en">
+	<langstring name="LNG_BOOKMARK_TITLE" label="Bookmarks Title">Закладки</langstring>
+	<langstring name="LNG_BOOKMARK_DELETE" label="Delect">Удалить закладку</langstring>
+	<langstring name="LNG_BOOKMARK_ADD" label="Add bookmark">Добавить закладку</langstring>
+	<langstring name="LNG_BOOKMARK_OK" label="OK">OK</langstring>
+	<langstring name="LNG_BOOKMARK_CANCEL" label="Cancel">Отмена</langstring>
+	<langstring name="LNG_BOOKMARK_DEFAULT_TITLE" label="Page">Страница $1</langstring>
+	<langstring name="LNG_BOOKMARK_COLOR" label="Random color">Случайный цвет</langstring>
+	
+	<langstring name="LNG_BOOKMARK_ADD_FLOAT" label="Add Button">Добавить</langstring>
+	<langstring name="LNG_BOOKMARK_DELETE_FLOAT" label="Delete Button">Удалить</langstring>
+	<langstring name="LNG_BOOKMARK_UPDATE_FLOAT" label="Update Button">Обновить</langstring>
+	<langstring name="LNG_BOOKMARK_CLOSE_FLOAT" label="Close Button">Закрыть</langstring>
+	<langstring name="LNG_BOOKMARK_PAGE_FLOAT" label="Page Title">Название страницы</langstring>
+	<langstring name="LNG_BOOKMARK_P_FLOAT" label="Pagination">Стр.</langstring>
+	
+</lang>
