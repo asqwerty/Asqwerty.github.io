@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="en">
+	<langstring name="LNG_FIRST_PAGE" label="First Page Button">Первая страница</langstring>
+	<langstring name="LNG_LAST_PAGE" label="Last Page Button">Последняя страница</langstring>
+	<langstring name="LNG_PREV_PAGE" label="Previous Page Button">Предыдущая страница</langstring>
+	<langstring name="LNG_NEXT_PAGE" label="Next Page Button">Следущая страница</langstring>
+	<langstring name="LNG_GOTO_PAGE" label="Page Number">Перейти к странице $1</langstring>
+	<langstring name="LNG_GOTO_DIALOG_TIP" label="Goto Page tip">Пожалуйста, введите номер страницы, чтобы перейти, а затем нажмите клавишу Еnter.</langstring>
+	<langstring name="LNG_FULLSCREEN" label="Fullscreen Button">Активировать полноэкранный режим (сочетания клавиш могут не работать в полноэкранном режиме)</langstring>
+	<langstring name="LNG_RESTORE" label="Exit fullscreen Button">Выйти из полноэкранного режима</langstring>
+	<langstring name="LNG_MUTE" label="Mute Button">Отключить звук</langstring>
+	<langstring name="LNG_UNMUTE" label="Unmute Button">Включить звук</langstring>
+	<langstring name="LNG_ZOOM_IN" label="ZoomIn Button">Увеличить</langstring>
+	<langstring name="LNG_ZOOM_OUT" label="ZoomOut Button">Уменьшить</langstring>
+	<langstring name="LNG_ROTATE_RIGHT" label="Rotate clockwise Button">Повернуть книгу по часовой стрелке</langstring>
+	<langstring name="LNG_ROTATE_LEFT" label="counterclockwise Button">Повернуть книгу против часовой стрелки</langstring>	
+	<langstring name="LNG_THUMBNAIL" label="Thumbnails Button">Эскиз</langstring>
+	<langstring name="LNG_BOOKMARKS" label="Bookmarks Button">Закладки</langstring>
+	<langstring name="LNG_PRINT" label="Print Button">Печать</langstring>
+	<langstring name="LNG_DRAW" label="Draw Button">Рисовать</langstring>
+	<langstring name="LNG_TEXT_SELECT" label="Text Selecting Button">Текстовый выбор</langstring>
+	<langstring name="LNG_TOC" label="TOC Button">Оглавление</langstring>
+	<langstring name="LNG_SHARE" label="Share Button">Поделиться</langstring>
+	<langstring name="LNG_SEARCH" label="Search Button">Найти</langstring>
+	<langstring name="LNG_DOWNLOAD" label="Download Button">Загрузить</langstring>
+	<langstring name="LNG_ABOUT" label="About Button">О издании</langstring>
+	<langstring name="LNG_Exit" label="Exit Button">Эвакуация</langstring>
+	<langstring name="LNG_BOOKCASE" label="Bookcase">Книжный шкаф</langstring>
+	<langstring name="LAN_PLAY" label="About Button">Пуск</langstring>
+	<langstring name="LAN_STOP" label="Exit Button">Стоп</langstring>
+</lang>
