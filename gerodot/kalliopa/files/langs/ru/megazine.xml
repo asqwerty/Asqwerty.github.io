@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang id="en">
+	<langstring name="LNG_LANGUAGE_NAME" label="Language ToolTip">Русский</langstring>
+	<langstring name="LNG_LOADING" label="Page Loading">Загрузка... $1%</langstring>
+	<langstring name="LNG_BOOKEDGE_PAGENUMBER" label="Page Number">Переход к странице $1</langstring>
+	<langstring name="LNG_OK" label="OK">OK</langstring>
+	<langstring name="LNG_CANCEL" label="Cancel">Отмена</langstring>
+	<langstring name="LNG_YES" label="Yes">Да</langstring>
+	<langstring name="LNG_NO" label="No">Нет</langstring>
+	<langstring name="LNG_QUIT" label="Quit">Выход</langstring>
+	<langstring name="LNG_QUIT_TIP" label="Quit confirm">Действительно ли, хотите выйти?</langstring>
+</lang>
