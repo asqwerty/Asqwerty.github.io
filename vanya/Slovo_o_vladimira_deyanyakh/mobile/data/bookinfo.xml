@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bookinfo version="4.3.3" pageWidth="565" pageHeight="800" title="Слово о Владимира деяньях..." companyURL="www.kvisoft.com/flipbook-maker-pro/" gateway="http://www.kvisoft.com/flipbook-maker/email.php" rightToLeft="false" autoFlipSeconds="5" bgColor="4539717" bgImage="" autoFlip="false" companyName="kvisoft.com" ab="881964c4f3e" hardCover="false" password="" analyticsUA="">
+<bookinfo version="4.3.3" pageWidth="565" pageHeight="800" title="Слово о Владимира деяньях..." companyURL="www.kvisoft.com/flipbook-maker-pro/" gateway="http://www.skeet.h1n.ru/flipbook-maker/email.php" rightToLeft="false" autoFlipSeconds="5" bgColor="4539717" bgImage="" autoFlip="false" companyName="kvisoft.com" ab="881964c4f3e" hardCover="false" password="" analyticsUA="">
   <leftmenu showTabBackground="true" visible="false" hideAfterZoom="false">
     <issues visible="false" icon=""/>
     <toc visible="true" icon=""/>
@@ -14,7 +14,7 @@
   </leftmenu>
   <bottommenu background="content/images/menuBackground.png" visible="false" iconSameSize="false" position="top" hideAfterZoom="false" autoHideOnFullScreen="false" showBackground="false">
     <help visible="true" icon=""/>
-    <info visible="true" icon="" url="http://www.kvisoft.com/flipbook-maker/"/>
+    <info visible="true" icon="" url="http://www.skeet.h1n.ru/flipbook-maker/"/>
     <zoom visible="true" icon=""/>
     <autoflip visible="true" icon=""/>
     <search visible="false" icon=""/>

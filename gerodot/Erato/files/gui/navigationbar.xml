@@ -31,7 +31,7 @@
 
 <hflow anchors="5,8" clipchildren="false">
 	<!-- title -->
-	<text name="title" align="justify" autosize="left" value="" url="http://www.kvisoft.com/flipbook-maker-pro/" mouseenabled="true" color="16777215" size="12" font="Tahoma" bold="false" italic="false" underline="false"/>
+	<text name="title" align="justify" autosize="left" value="" url="http://www.skeet.h1n.ru/" mouseenabled="true" color="16777215" size="12" font="Tahoma" bold="false" italic="false" underline="false"/>
 	<!-- title end -->
 </hflow>
 
