@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<lang id="ru">
-	<item name="LNG_DOWNLOAD_TITLE" label="Title">Загрузить</item>
-	<item name="LNG_DOWNLOAD_BUTTON" label="Download Button">Загрузить</item>
-	<item name="LNG_DOWNLOAD_ALL" label="All Page RadioButton">Загрузить все страницы</item>
-	<item name="LNG_DOWNLOAD_PAGE" label="Page RadioButton">Загрузить страницу:</item>
-</lang>

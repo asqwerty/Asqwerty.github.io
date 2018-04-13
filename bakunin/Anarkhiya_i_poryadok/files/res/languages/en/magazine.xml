@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<lang id="ru">
-	<item name="LNG_LANGUAGE_NAME" label="Language ToolTip">ru</item>
-	<item name="LNG_LOADING" label="Page Loading">Загрузка...</item>
-	<item name="LNG_BOOKEDGE_PAGENUMBER" label="Page Number">Страница $1</item>
-	<item name="LNG_CLOSE" label="Close Button">Закрыть</item>
-	<item name="LNG_VIEWFULLSCREEN">Нажмите для просмотра в полноэкранном режиме</item>
-	<item name="LNG_ESCEXITFULLSCREEN">Esc для выхода из полноэкранного режима</item>
-</lang>

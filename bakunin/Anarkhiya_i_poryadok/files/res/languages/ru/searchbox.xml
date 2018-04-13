@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<lang id="ru">
-	<item name="LNG_SEARCHBOX_TITLE" label="Title">Поиск</item>
-	<item name="LNG_SEARCHBOX_START" label="start search">Начать поиск</item>
-	<item name="LNG_SEARCHBOX_RESULTS_CLOSE" label="Close Button">Закрыть</item>
-</lang>
