@@ -1,0 +1,7 @@
+
+(function(compId){var _=null,y=true,n=false,x8='rgba(255,255,255,0.00)',x3='5.0.1.386',x6='rgba(0,0,0,0)',x1='5.0.1',g='image',x4='horizontal',x2='5.0.0',i='none';var g7='%D0%9A%D0%BE%D0%BB%D1%8E%D1%87%D0%BA%D0%B0.png',g5='%D0%91%D0%B0%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0.mp4';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:x4,rI:n,cn:{dom:[{id:'Bagrovye_oblaka',t:'video',tag:'video',r:['0px','0px','1980','172','auto','auto'],overflow:'hidden',tt:'Багровые облака',ap:'autoplay',lp:'loop',userClass:"",sr:[vid+g5],pr:'metadata',ps:'images/Bagrovye_oblaka_video_poster.png'},{id:'Koluchka',t:g,tag:'img',r:['0px','0px','1980px','172px','auto','auto'],overflow:'hidden',tt:'Колючая проволока',al:'Колючая проволока на заборе тюрьмы',f:[x6,im+g7,'0px','0px'],userClass:""}],style:{'${Stage}':{isStage:true,r:['null','null','1980px','172px','auto','auto'],zr:['580px','1980px','',''],overflow:'hidden',f:[x8]}}},tt:{d:0,a:y,data:[]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-51845247");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-51845247");

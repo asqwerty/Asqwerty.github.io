@@ -1,0 +1,7 @@
+
+(function(compId){var _=null,y=true,n=false,x8='rgba(255,255,255,0.00)',x3='5.0.1.386',x6='rgba(0,0,0,0)',x1='5.0.1',g='image',x4='horizontal',x2='5.0.0',i='none';var g7='%D0%9A%D0%BE%D0%BB%D1%8E%D1%87%D0%BA%D0%B0.png',g5='%D0%91%D0%B0%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0.mp4';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:x4,rI:n,cn:{dom:[{id:'Nebesa',t:'video',tag:'video',r:['0px','0px','1980','172','auto','auto'],overflow:'hidden',tt:'Небеса',ap:'autoplay',lp:'loop',sr:[vid+g5],pr:'auto',ps:'images/Nebesa_video_poster.png'},{id:'Koluchka',t:g,tag:'img',r:['0px','0px','1980px','172px','auto','auto'],overflow:'hidden',tt:'Колючая проволока',al:'Колючая проволока на тюремном заборе',f:[x6,im+g7,'0px','0px']}],style:{'${Stage}':{isStage:true,r:[undefined,undefined,'1980px','172px'],zr:['30%','1980px','',''],overflow:'hidden',f:[x8]}}},tt:{d:0,a:y,data:[]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-11845212");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-11845212");
