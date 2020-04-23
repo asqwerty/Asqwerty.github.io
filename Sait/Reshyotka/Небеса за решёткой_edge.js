@@ -1,0 +1,7 @@
+
+(function(compId){var _=null,y=true,n=false,x8='rgba(255,255,255,0.00)',x3='5.0.1.386',x6='rgba(0,0,0,0)',x1='5.0.1',g='image',x4='horizontal',x2='5.0.0',i='none';var g7='%D0%A2%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D1%88%D1%91%D1%82%D0%BA%D0%B0.png',g5='%D0%91%D0%B0%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B0.mp4';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:x4,rI:n,cn:{dom:[{id:'Bagrovye_nebesa',t:'video',tag:'video',r:['14px','14px','325px','318px','auto','auto'],tt:'Багровые небеса',ap:'autoplay',lp:'loop',userClass:"",sr:[vid+g5],pr:'auto',ps:'images/Bagrovye_nebesa_video_poster.png'},{id:'Tyuremnaya_reshyotka',t:g,tag:'img',r:['0px','0px','350px','342px','auto','auto'],tt:'Тюремная решётка',al:'Тюремная решётка в камере политзаключённых',f:[x6,im+g7,'0px','0px'],userClass:""}],style:{'${Stage}':{isStage:true,r:['null','null','350px','342px','auto','auto'],zr:['175px','','',''],overflow:'hidden',f:[x8]}}},tt:{d:0,a:y,data:[]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-16383981");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-16383981");

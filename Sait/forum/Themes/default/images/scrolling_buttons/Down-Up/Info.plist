@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Adobe Edge Animation - Down-Up</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.edge.widget.Down-Up</string>
+	<key>CFBundleName</key>
+	<string>Down-Up</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>Height</key>
+	<string>32</string>
+	<key>MainHTML</key>
+	<string>Down-Up.html</string>
+	<key>Width</key>
+	<string>32</string>
+</dict>
+</plist>
